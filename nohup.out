@@ -1,0 +1,1310 @@
+Created Database
+de
+c
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNDIxODA1LCJpYXQiOjE2NTIzOTMwMDV9.vgLtfIti1K-H_TElFQdTVDdoSz10yP2fj_0TiEULxJg', 'expires_in': 28800, 'refresh_token': '9ab5143d72b15640ad4f90dde00ed152bf04795980da90790e6e4f16d55153dc', 'scope': 'sleep activity heartrate profile weight settings', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNDIxODA1LCJpYXQiOjE2NTIzOTMwMDV9.Uid1eM6_j2w4p89m2WWLbdvcOWZjaWlkAJ2g0YhB8lY', 'expires_in': 28800, 'refresh_token': '6aee67ad9cd3afcef31bb48e32b2cce5d2274aa3e990146de7032138e37dc06f', 'scope': 'sleep activity heartrate profile weight settings', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+0
+0
+de
+c
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNDIyNTQ4LCJpYXQiOjE2NTIzOTM3NDh9.bN5GkpqbR9WJdCye7E9TcFeDyuMOAz-_TxX8FX77X9I', 'expires_in': 28800, 'refresh_token': '5064595a5a06c014dab255c025aef1f09664dc86bffee2abd642b6e633ef6085', 'scope': 'activity heartrate settings profile weight sleep', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNDIyNTQ4LCJpYXQiOjE2NTIzOTM3NDh9.6fcpUJrlFBvcxWjmotfe0OHS-mLq3HLPUDd8p1vHlAs', 'expires_in': 28800, 'refresh_token': '2ee6c28f63233a93308d3813fb7c66a3d668d5f073c9a2e9a213d4fbf54035ef', 'scope': 'profile sleep activity settings weight heartrate', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+0
+0
+de
+c
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNDIzNzk0LCJpYXQiOjE2NTIzOTQ5OTR9.Dw6D84o3RR1qXXDRx6MRqz_UdTc_MNF2hPK2mMdgeN0', 'expires_in': 28800, 'refresh_token': 'cd67bb9fc0315dc012e8c24ed62f367945f69c2cf9b7e5c81318912904e7e49f', 'scope': 'settings weight profile sleep activity heartrate', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNDIzNzk0LCJpYXQiOjE2NTIzOTQ5OTR9.nVaex273C4SGsfi-Ix66NQ3R-eOQDxNp3iSJjHdp2tU', 'expires_in': 28800, 'refresh_token': 'f50de7cd4721742c419f3aef537215408c99d54d737712e946ab15911e5a4193', 'scope': 'activity profile heartrate sleep settings weight', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+0
+0
+de
+c
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNDk4MzQxLCJpYXQiOjE2NTI0Njk1NDF9.gOoVQRBL0hnY50qH13ibJX_PVdFlg8raZzQ8mzb99uY', 'expires_in': 28800, 'refresh_token': '3c067f8ec8bdd95895d8ee3d5fce3ca6548b0f1e22486c057b231da80641546a', 'scope': 'activity heartrate settings profile weight sleep', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNDk4MzQxLCJpYXQiOjE2NTI0Njk1NDF9.5SyM-OoGryYaid_8jhHTmJYaD3UE4FfedHb8nXZlDqY', 'expires_in': 28800, 'refresh_token': 'b68cce943dae4f96d9a3e1c27ebbdf989039e637f62736ffcd602c4fa4ac8750', 'scope': 'activity sleep weight profile settings heartrate', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNDk4MzQyLCJpYXQiOjE2NTI0Njk1NDJ9.WWhnze5h-lCyGvo3QYHxO2glkwNrK8upAjXZkMTpXiU', 'expires_in': 28800, 'refresh_token': '9c2a4ba3624e113747b803780ff73be3a6aec2d6ddd80070fb4e822f48a355c5', 'scope': 'settings weight heartrate activity profile sleep', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNDk4MzQyLCJpYXQiOjE2NTI0Njk1NDJ9.lwfdzZpoipe-78s8Pw0rn6wZo1zS2_vj5Q4a7ppUNeM', 'expires_in': 28800, 'refresh_token': '6dc21447a75b0dce630c99897e66a07f42134a7308c17db98f98dfe4fcf492cb', 'scope': 'heartrate sleep settings profile activity weight', 'token_type': 'Bearer', 'user_id': '3G5286'}
+1
+1
+1
+1
+de
+c
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNTA2Mzg2LCJpYXQiOjE2NTI0Nzc1ODZ9.EibEuCvIXS5e2PZA3b9519m1iquyAzCgk15Lvlq8wFE', 'expires_in': 28800, 'refresh_token': 'c155e415fd1d4b1d0fe84872aef3bc8d9fcbc654fb4fdc49f594af117cfaa85c', 'scope': 'heartrate sleep settings profile activity weight', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNTA2Mzg2LCJpYXQiOjE2NTI0Nzc1ODZ9.mCQG-BR2Bs8XEpQUiv1LftVAxQCHUvrdNhDmJiYnFxU', 'expires_in': 28800, 'refresh_token': 'e4573c5c6af216e15548f6ceb3c00545ae1ecbca4248d12bddd4724f736e96dd', 'scope': 'activity profile heartrate sleep settings weight', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNTA2Mzg2LCJpYXQiOjE2NTI0Nzc1ODZ9.L_Xm7xHU9fBtW4ie7DdQ0jtOEMywLyGtYiz3a7PFAEY', 'expires_in': 28800, 'refresh_token': '473b962edb1a740b1108ce0a559c16164c1a22a00b85fcab035cf157201c632a', 'scope': 'settings weight activity heartrate sleep profile', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNTA2Mzg2LCJpYXQiOjE2NTI0Nzc1ODZ9.pmoOE48mjgEfC6SPTM383h3tDtdG-9OQvfJZjLG2oBE', 'expires_in': 28800, 'refresh_token': 'ebe15468cc62ba6e1995b3fc456e031a88ffca8808e7117cf4c3d7be5a073e66', 'scope': 'sleep activity heartrate profile weight settings', 'token_type': 'Bearer', 'user_id': '3G5286'}
+1
+1
+1
+1
+de
+c
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNTA2NTc4LCJpYXQiOjE2NTI0Nzc3Nzh9.DgItNSjcMQqDANizf4AfbP-kE0XEDLjTJSUSdeP0JA0', 'expires_in': 28800, 'refresh_token': 'e907bd73bdb4e52b058acd5ea388f6b74900d1238a5296688bbcab54da15b1d8', 'scope': 'activity settings profile sleep weight heartrate', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNTA2NTc4LCJpYXQiOjE2NTI0Nzc3Nzh9.44CmA2gXKkFOTEE2W7pEH2mVcK_GNdnTeVDJldNDffM', 'expires_in': 28800, 'refresh_token': 'c72bcf774a85ee2c99d8beb8b5d363eeb8e7dc34fe08fe37af3b620e75a183f0', 'scope': 'settings weight activity heartrate sleep profile', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNTA2NTc4LCJpYXQiOjE2NTI0Nzc3Nzh9.ivBq0b0d9R5J9tFFo4biur6BMdQ41k2_gmKRIaNJf58', 'expires_in': 28800, 'refresh_token': 'fd552347f7ae43275a73cc1a53659b4490b524cacd6f9c0e5b218ca0f262cbcc', 'scope': 'settings weight profile heartrate sleep activity', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNTA2NTc4LCJpYXQiOjE2NTI0Nzc3Nzh9.uKfyvxRVruhPmqmpmkEO-C9p75RC302jvo6qxK6fzUM', 'expires_in': 28800, 'refresh_token': 'd86fb0a1e430890920f69c9a04cecd9c79f16f9576e164efd655541f7606dda9', 'scope': 'settings weight heartrate activity profile sleep', 'token_type': 'Bearer', 'user_id': '3G5286'}
+1
+1
+1
+de
+c
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNTA2NTgxLCJpYXQiOjE2NTI0Nzc3ODF9.x_NM11PuAdm9vQwd8grSgpQdoUzzYHmILM_o3y5dWSc', 'expires_in': 28800, 'refresh_token': 'd716326d5e4212b9753bba3e49be15132290c7d06f17a38718a3153d25a03652', 'scope': 'profile activity heartrate sleep settings weight', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNTA2NTgxLCJpYXQiOjE2NTI0Nzc3ODF9.xTshtVofDNRs8mNcZH3ACjVgMAa8_DJKBuYPuTGAVlQ', 'expires_in': 28800, 'refresh_token': '14e1fb960cfd37b87a40df97ca6bbd42db1128049dbe1ac9a378a4211adcd695', 'scope': 'weight heartrate settings activity sleep profile', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+1
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNTA2NTgxLCJpYXQiOjE2NTI0Nzc3ODF9.hiieMOPhl6R1sDwPx8-aE0JRjEKZNpEeRw6uqq3q5T8', 'expires_in': 28800, 'refresh_token': 'c8a5ad692c4c43f081a27569b47f0fd93be8dbc075915a615caeb6778f83afa0', 'scope': 'heartrate sleep settings activity profile weight', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNTA2NTgxLCJpYXQiOjE2NTI0Nzc3ODF9.n6lOLqnyGYPJpE-QMewJqyNa_s_9ttuwRWhnFfNOeW0', 'expires_in': 28800, 'refresh_token': 'd724b17322c2b97154ad4d8fc842f7aad162ca44897e2a0f363b02512aec4cdc', 'scope': 'weight heartrate settings activity sleep profile', 'token_type': 'Bearer', 'user_id': '3G5286'}
+1
+1
+1
+1
+de
+c
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNTA5MTUxLCJpYXQiOjE2NTI0ODAzNTF9.mymgtsRP6OFArjPn98BkQcWfMWbzW7lYCJpyHiETRGo', 'expires_in': 28800, 'refresh_token': 'a4de3638ef09c40da466a1fa12bc6e30077aa394642759e9345949aecac4d6ff', 'scope': 'heartrate sleep settings profile activity weight', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNTA5MTUxLCJpYXQiOjE2NTI0ODAzNTF9.90rxWvRyAc3HtHz5fptIB5ZWekwa8rd2eWHBP5CXwdU', 'expires_in': 28800, 'refresh_token': '6473356f2db068977dd15d7127b848fe0fb554e85aa57ae554b4fb3828e01767', 'scope': 'activity profile heartrate sleep settings weight', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNTA5MTUxLCJpYXQiOjE2NTI0ODAzNTF9.aOh4fdEV8V7l7OLgUjx36J4Vm2pZ4lES_I4B6NSfH-M', 'expires_in': 28800, 'refresh_token': '54da00d97f664eb8f77d756d4fb2e86a203465d0cbe74679c7f76a81b2f139c1', 'scope': 'settings sleep activity profile weight heartrate', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNTA5MTUxLCJpYXQiOjE2NTI0ODAzNTF9.M5JNiVv2OTBt-32NuFWzee3nrbdev-Dbl861OK3LqSk', 'expires_in': 28800, 'refresh_token': '15f5876d4617443fbb060beacd94d62b1f80ce62a8de65fbe4aa9962838b94b5', 'scope': 'heartrate sleep settings profile activity weight', 'token_type': 'Bearer', 'user_id': '3G5286'}
+1
+1
+1
+1
+de
+c
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzUzNTgzLCJpYXQiOjE2NTI3MjQ3ODN9.z-aVVqeAMSnQbjBHdYJ-wjk6cL8vBN-bKgGGodED_s0', 'expires_in': 28800, 'refresh_token': '642b2ad2e34590256d1f5621939347d3f9cff54005425cb5459b77dbb3a1fe02', 'scope': 'weight heartrate profile activity sleep settings', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzUzNTgzLCJpYXQiOjE2NTI3MjQ3ODN9.667v_MvnOU1geAeSm0SugeGLdG0rXfrPWFM9Ka-6E50', 'expires_in': 28800, 'refresh_token': '07008eb314db9ebe7f1e03a30561089b582ce11ba58146776a1994bd4713b931', 'scope': 'weight heartrate settings activity sleep profile', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzUzNTgzLCJpYXQiOjE2NTI3MjQ3ODN9.e3o1QWJwXECwdRHs2p-ZqSHer14zDl891NG27RmRyAw', 'expires_in': 28800, 'refresh_token': '3371cd2a93b17fc9935db705182a17e878c9c0edcc01553b53758d3bee60042d', 'scope': 'sleep activity heartrate profile weight settings', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzUzNTgzLCJpYXQiOjE2NTI3MjQ3ODN9.Vi2IJNryqVU0zcmJrIJQUfF4Nc55QMvANPbZPXVtXxE', 'expires_in': 28800, 'refresh_token': '16e49592bce5b1b24ebd69bb2c4769e3ded2bd72db16fde3222c7258534f6211', 'scope': 'weight activity settings profile sleep heartrate', 'token_type': 'Bearer', 'user_id': '3G5286'}
+4
+4
+de
+c
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzUzNTkwLCJpYXQiOjE2NTI3MjQ3OTB9.WrddSsp9DyXFdadiJjyP1weN02wtuBfiEO4WRxbMqs4', 'expires_in': 28800, 'refresh_token': '89707ff7ea27b859614aa4170a5ea93e4782df6f5141a6f3e652cf716f7b4104', 'scope': 'heartrate sleep settings profile activity weight', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzUzNTkwLCJpYXQiOjE2NTI3MjQ3OTB9.P7oN8_VMuvGmCxDjL1RhbFzWthxIq4Eiukh_JX0Ghzs', 'expires_in': 28800, 'refresh_token': 'd58cc6c8954a0dfdbbe4797420f4eec7456ea03bebc6ac78a596f18c73639303', 'scope': 'activity heartrate settings profile weight sleep', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzUzNTkwLCJpYXQiOjE2NTI3MjQ3OTB9.qJgHGc7W_U4Wty21RBVZflllzcgJhERYzG_stFmp5cE', 'expires_in': 28800, 'refresh_token': '421251b8270dcffb60f1945c56dedad42cceebfede1f41c8538c244de64337c5', 'scope': 'profile sleep activity settings weight heartrate', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzUzNTkwLCJpYXQiOjE2NTI3MjQ3OTB9.19BME1eqGlpFZ2T440UrGzuPIVwL9uJTZElnIqZWauA', 'expires_in': 28800, 'refresh_token': '9933ef7053af879603a89815798bbc041ae5f8ba2aa26dbda5701b0494ab2794', 'scope': 'settings profile activity heartrate weight sleep', 'token_type': 'Bearer', 'user_id': '3G5286'}de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyMDc5LCJpYXQiOjE2NTI3MzMyNzl9.OG7RteoHkHQOjMXWY2oFvhQK9jN97QXXEUfn4urZ-hg', 'expires_in': 28800, 'refresh_token': 'c34989ac9711bf88e367c683cf3e4d85f017d95cb5bc8e1b4e7211f0b5e9e246', 'scope': 'activity settings weight sleep heartrate profile', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyMDc5LCJpYXQiOjE2NTI3MzMyNzl9.0IrPNUI5GVtvUAE4j7lmXuQxq40dYrZ5MzBj3Z9DsjQ', 'expires_in': 28800, 'refresh_token': '3efe09d4f90b121259d687fefcedd03e39cc65b6a370dcc8602c637f43ba65fb', 'scope': 'settings activity heartrate weight profile sleep', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyMDc5LCJpYXQiOjE2NTI3MzMyNzl9.njb92xs7B1bn8bzrtJABfPLZZIBnw7jTn2cdNauT0o8', 'expires_in': 28800, 'refresh_token': '662ffaa144120c76df390aa1df89121bf7b531a30cd8cfeb1003d10f721fe2bd', 'scope': 'heartrate sleep settings profile activity weight', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyMDgwLCJpYXQiOjE2NTI3MzMyODB9.07wSqn1y5m6V4xwODsg7wrCG0hjJUPV-9DKYGsAoOYs', 'expires_in': 28800, 'refresh_token': 'e9401f204f89ef5c5a35a347b1f8eb08b76a608431dd97955ff3d5b28ac5a199', 'scope': 'weight heartrate settings activity sleep profile', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyMDgwLCJpYXQiOjE2NTI3MzMyODB9.K-z2nvZ6UzMUU5nbLwf7LzW2y46wHm4OipWlvtzUaiA', 'expires_in': 28800, 'refresh_token': 'dd6aca8207c53590863884c09eee43c8ca7bb2f2f54e0222de87e423a35874a5', 'scope': 'heartrate sleep settings profile activity weight', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+4
+de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyMzExLCJpYXQiOjE2NTI3MzM1MTF9.qAd2K3PE55nY0BT2M0uxRCc4LaQaZx9QD6zKYAT0JWA', 'expires_in': 28800, 'refresh_token': 'ae8f084ba1071637677929f4f90d7eab55df26f0984536b56a5b07551c167015', 'scope': 'profile sleep activity settings weight heartrate', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyMzExLCJpYXQiOjE2NTI3MzM1MTF9.LFihATOAoZ9DNG8AXZOK792AsiP2NabEQ5MwRUhSJsE', 'expires_in': 28800, 'refresh_token': '8d1072c0c312cd0f1ec9b9f40b1a227778cf74c9727763c414c4b6a1974a6aae', 'scope': 'heartrate sleep settings profile activity weight', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyMzExLCJpYXQiOjE2NTI3MzM1MTF9.28-pYMiTCi3kCm2DX9erTSyV9e_lXTdGYa8Wm1mEqKM', 'expires_in': 28800, 'refresh_token': 'bda84d15393543966f55fa01938c1e8bddd9e928c9be512d1fc2db35eac3383e', 'scope': 'activity settings sleep profile weight heartrate', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyMzExLCJpYXQiOjE2NTI3MzM1MTF9.TErE2bpjounlmhjKv4qq1Z_GE4AeF8oqkN_xp-fU0XY', 'expires_in': 28800, 'refresh_token': '5f48551e2b24ec06c81b317d73b3bd72b7125b30f8a536f380a6162b1ccd093a', 'scope': 'settings activity heartrate weight profile sleep', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyMzExLCJpYXQiOjE2NTI3MzM1MTF9.3ebY2HJcbjDSoh6PgiBnUgd_avhs67o402sEw1sDlYs', 'expires_in': 28800, 'refresh_token': '4c2d24fc3ddca994648bb4fb91ad28081b6ebf6ed2019262c8263c29216fcd87', 'scope': 'sleep activity heartrate profile weight settings', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+4
+de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyNDMxLCJpYXQiOjE2NTI3MzM2MzF9.yUNWtCfuvXLe1KUy6ZxtNd13fckTn1CypGTurWUWnY4', 'expires_in': 28800, 'refresh_token': 'cb69f059048d4eb5c8bc7e57b9236d48006f0b4750a4ea5e1492422f8e3c6e47', 'scope': 'sleep activity heartrate profile weight settings', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyNDMxLCJpYXQiOjE2NTI3MzM2MzF9.4c9iPaLXO4hg5VjtiUuHWwEWMipD8ZUBkR8AsnGezng', 'expires_in': 28800, 'refresh_token': 'd47537458e1ad25953d8b4e932ea1b220e4ffab1731a7c3ec485fd022032e35e', 'scope': 'activity sleep weight profile settings heartrate', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyNDMxLCJpYXQiOjE2NTI3MzM2MzF9.xtp4mLG95ruuyJjDMHGq67XWtIVFMNNV41TzUZ3H4qI', 'expires_in': 28800, 'refresh_token': '01d85cdbd433a850ffe3bf099c22bc52a9c5ce0fed889976d32a9170031cff30', 'scope': 'activity settings profile sleep weight heartrate', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyNDMyLCJpYXQiOjE2NTI3MzM2MzJ9.A0uAv8j_n9HQtGpOdyvQj_Q1WsT_P-EjhYwhu095cls', 'expires_in': 28800, 'refresh_token': '609d4b5a1c0afb0f8b6faa5eeecb5eed31e8da6b84e53f766a09f8dd46524571', 'scope': 'settings heartrate sleep activity weight profile', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyNDMyLCJpYXQiOjE2NTI3MzM2MzJ9.ds2F0dRevFivph3mxkwlU0u1xISmwe7Cfc6RUUs1Tgw', 'expires_in': 28800, 'refresh_token': '0b0c4466f3b47e84514cac1cea79e764c5dfd959e9afa0151d28877e04fa0808', 'scope': 'settings heartrate sleep activity weight profile', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+4
+de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyODU0LCJpYXQiOjE2NTI3MzQwNTR9.5VyoC18D9Sa9WABC9JPESFJk5BrV5yAJ0ZXvHl4Q2l0', 'expires_in': 28800, 'refresh_token': '76b0818284d748c5403a6f849833f20029c1eb6594a83b8678cac81b765902f4', 'scope': 'activity heartrate settings weight sleep profile', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyODU0LCJpYXQiOjE2NTI3MzQwNTR9.JNrqkxQBYpfhAYAFRcaz8i45L6vGwtFjdkXMJEHoMsY', 'expires_in': 28800, 'refresh_token': '3f70df5c6b640d56502934e205c2fe1585cd9061107c1f09bb8683cf43d3c565', 'scope': 'settings profile activity heartrate weight sleep', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyODU0LCJpYXQiOjE2NTI3MzQwNTR9.1TzpYse--TPA-_pt0xEIVXEq5IfT8JFZmUyC1KpACSU', 'expires_in': 28800, 'refresh_token': 'e40e0d5b84db883b4b042fff88a4b0dd8b9579f9fb8c59cdce883ecf4712ba8b', 'scope': 'heartrate sleep settings profile activity weight', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyODU1LCJpYXQiOjE2NTI3MzQwNTV9.1H0vi_BcMwK1vXMWqibZmoooO7WMo6FAO_Obtj6jnpw', 'expires_in': 28800, 'refresh_token': 'd6b39b31f81a9deed795fb46373986aff248169d8b002d37ed686763164844c9', 'scope': 'heartrate sleep settings profile activity weight', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyODU1LCJpYXQiOjE2NTI3MzQwNTV9.gJM36wa2919mdEFdTZGssjC2E90uVRo2ip0F2gwWsdU', 'expires_in': 28800, 'refresh_token': '0795c7b62b31220ffd80a460f1c264ff636d916fe832e426e66a33e6cf88289f', 'scope': 'sleep weight settings activity profile heartrate', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+4
+de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyODYzLCJpYXQiOjE2NTI3MzQwNjN9._oIghS7mSnqasm0q_lHLw6bVHOBAQytqrU_VIDmjA1U', 'expires_in': 28800, 'refresh_token': 'b3216dae7dcdb35392dee0cc82f475d7e2ebac75d0b604fcc67d16dbc6758151', 'scope': 'weight activity settings heartrate sleep profile', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyODYzLCJpYXQiOjE2NTI3MzQwNjN9.WVHIpHyu4IYfDxc9v5kiBZL1gpLZu9WDfPZ4ge4wkLE', 'expires_in': 28800, 'refresh_token': 'da9c7c244e1e842fd9bd78377d1175ac55dcde3c4a222447c8840e0ebf2abcef', 'scope': 'activity profile heartrate sleep settings weight', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyODYzLCJpYXQiOjE2NTI3MzQwNjN9.62vAwGdx5l963tY1-ayA-KQytAR_fkn5z5tVJDUm4DI', 'expires_in': 28800, 'refresh_token': '3da572dbeaf83f100f0dbd14c8d732ce71eaeaa1d2d0519089d2e78fb0e42710', 'scope': 'profile activity heartrate sleep settings weight', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyODYzLCJpYXQiOjE2NTI3MzQwNjN9.QTVQXVXZ-R8jPn9-UT8Qh_ulmjQd8GCliLYTovvxGrQ', 'expires_in': 28800, 'refresh_token': '3377827e18de969e17cea6059e9acfd94b1291c52ca2073f4a523fb89830ff53', 'scope': 'profile sleep activity settings weight heartrate', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYyODYzLCJpYXQiOjE2NTI3MzQwNjN9.Z9LJtOk2YSeHboZ-C5YOXr7prnI07DGyUbFORdxva8E', 'expires_in': 28800, 'refresh_token': '4ebaa42542f90aadc023dddb2c390d5b1ea05856afc63db7b523234921cbb265', 'scope': 'profile sleep activity settings weight heartrate', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+4
+de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYzMzc0LCJpYXQiOjE2NTI3MzQ1NzR9.AKSTvHwJLQV4gLjTps_MDodFG795DSWU7BI9QGxn4Do', 'expires_in': 28800, 'refresh_token': '682d52024665cb7892be2e16c912e0bf178b936fc5fd9bc8dd47d3e84521f4da', 'scope': 'profile sleep activity settings weight heartrate', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYzMzc1LCJpYXQiOjE2NTI3MzQ1NzV9.X_0roShmcIbEUClPykDfms0DMRbtJ8HLECj38tHJ0wA', 'expires_in': 28800, 'refresh_token': '4811e4b617d5cbe7f941116b3c7317c85da8ef358d58441c4acd567783bf5495', 'scope': 'settings weight activity heartrate sleep profile', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYzMzc1LCJpYXQiOjE2NTI3MzQ1NzV9.U5dOWYsLYOfKdNyFr_oShWkbEHt57C4uwtHn-EkJ1a4', 'expires_in': 28800, 'refresh_token': '24a9f66a5a5569a6b5b1036f45c82b3f1057d06b5dedad66e8dcbec0436fb11d', 'scope': 'profile sleep activity settings weight heartrate', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYzMzc1LCJpYXQiOjE2NTI3MzQ1NzV9.ROUioJI4VgxBMABzN5X3T0UiQWPu9FEshRDA83NSZ14', 'expires_in': 28800, 'refresh_token': 'd4c837294e8fe0bf0034067201739084a26923b4637a62dd174dc1a2541e9973', 'scope': 'heartrate sleep settings profile activity weight', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzYzMzc1LCJpYXQiOjE2NTI3MzQ1NzV9.TU5vnwiG2yiKNdZ4QXmBIwgwHN7skWOP5pNIy7RkDWA', 'expires_in': 28800, 'refresh_token': 'd31e899832e1e582e5df91864a71f024fa9a4d35485065dc291693a5b5d837a5', 'scope': 'sleep activity heartrate profile weight settings', 'token_type': 'Bearer', 'user_id': '2VP43V'}de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzY0NDAyLCJpYXQiOjE2NTI3MzU2MDJ9.MAz1y4-Bln5kjvgIUzHl9IA7g3xWYJliIxsvjbhmGpI', 'expires_in': 28800, 'refresh_token': '71d6b188144d1580ee66ed38415de8ac8d7c3c96bd784c530c5f4b12593dd66c', 'scope': 'sleep activity heartrate profile weight settings', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'errors': [{'errorType': 'request', 'fieldName': '500', 'message': 'Oops! An unexpected error occurred. If it continues please report it at help.fitbit.com. Error id: ff013b8bbe977de98b25bed0ed9c666b:172.22.19.193:16169'}], 'success': False}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzY0NDA1LCJpYXQiOjE2NTI3MzU2MDV9.1f7uG8bAaYWVee5EzQQlQTlnG-qVekZ0E0aXh9dlag0', 'expires_in': 28800, 'refresh_token': 'f373bda702403308c613aca5ac0114c3a5b18e073a87a158838e264c157cbb61', 'scope': 'activity settings profile sleep weight heartrate', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzY0NDA1LCJpYXQiOjE2NTI3MzU2MDV9.oE_3m1RrVOx7z69xXC9ItG1HOXhrhsmeuwP06Ge_JhY', 'expires_in': 28800, 'refresh_token': 'fa029c97f89f91f4fc1d3fc92ea304a33a6de20a8124c38e168b27787251ae07', 'scope': 'settings profile activity heartrate weight sleep', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+clarissapauli@gmail.com
+Clarissa Pauli
+de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzY0NDA2LCJpYXQiOjE2NTI3MzU2MDZ9.ZvWlTauVAXwKlsrI-f3McqgXRiKOTf_bPHDaKoBYdcU', 'expires_in': 28800, 'refresh_token': 'f827f0b5cfa4d30f43f997e2d9012bd542722d6d01d4d3111fc66fd4a3d11c94', 'scope': 'activity settings sleep profile weight heartrate', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzY0NDA2LCJpYXQiOjE2NTI3MzU2MDZ9.wI_d7knDyL1BkRvifsKB5ycQXWs1RBQbbPzymLQao78', 'expires_in': 28800, 'refresh_token': 'c2e6831024eb081391986df6ad3c91fd04c99d9b2c04f332666200c514d1c4eb', 'scope': 'sleep activity heartrate profile weight settings', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+4
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzY0NDA2LCJpYXQiOjE2NTI3MzU2MDZ9.RD8JQFlC5yi6sU0_W3V_dt4ZxKXtcgc7bWOJfr8hx_Y', 'expires_in': 28800, 'refresh_token': '4f29a48492093575c519427669d31b2f5c7825aaaad60c9d84b5a24fcc0457af', 'scope': 'activity heartrate settings profile weight sleep', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzY0NDA2LCJpYXQiOjE2NTI3MzU2MDZ9.07zjtGMwKigg3LY6ya6xuxBmlB2FwANjwmQXn98mmlk', 'expires_in': 28800, 'refresh_token': '2318f1741f325dbf013c8f4ffd1513b9c3df465e58aeb653af2419ccde97f08d', 'scope': 'sleep activity heartrate profile weight settings', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+4
+4
+4
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzY0NDE1LCJpYXQiOjE2NTI3MzU2MTV9.WBhcsdQmMEjemE5QqQbkPeNnZR0A8VCmjVU6wvXWr3M', 'expires_in': 28800, 'refresh_token': 'a9c15b7abf038b7d9eb3039765432adc109606a5476f7a8f8f68d50179f16a5a', 'scope': 'activity sleep weight profile settings heartrate', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyNzY0NDE1LCJpYXQiOjE2NTI3MzU2MTV9.MI2v8BEsEXAuoWg0gNXamIj6GQmtNLlX9EW2fenPi_k', 'expires_in': 28800, 'refresh_token': 'bbde142fc2dca063d69a7ddf9b744374fd0ec3dbfb1218c2d890a582f454c499', 'scope': 'settings profile activity heartrate weight sleep', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+4
+4
+4
+4
+4
+de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyODQ2NTUxLCJpYXQiOjE2NTI4MTc3NTF9.8yHXrKP4FmDtQ6ZkiLBRwKqSZQTEiEMx7DoWLNdvnH8', 'expires_in': 28800, 'refresh_token': '87d98b5e563f57d0d8e8570986dc4c56f061604eeb2adf14ea82460f1d283100', 'scope': 'weight activity settings heartrate sleep profile', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyODQ2NTUxLCJpYXQiOjE2NTI4MTc3NTF9.clzJHBWEyY4Ib5i0FyMdvDZez9uK6IY8L9BbZRR41i0', 'expires_in': 28800, 'refresh_token': '1c1ee4f76d75f397a0bff372021e2264e08be4813643cdbd2b49444c02083ab9', 'scope': 'sleep activity heartrate profile weight settings', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyODQ2NTUyLCJpYXQiOjE2NTI4MTc3NTJ9.xoXXXIz7IWE3NB6BLXY46E3loXJ4eJeszcdhiYpyXkM', 'expires_in': 28800, 'refresh_token': 'e52ae5d3f40fac8050dc7508e5908fa624ef2332ab29574a8ce42798af0cc3ab', 'scope': 'heartrate sleep settings profile activity weight', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyODQ2NTUyLCJpYXQiOjE2NTI4MTc3NTJ9.tPD2ZbrzTmkYa87CoU7UjCab6g87r2N_XAEAOgtCn34', 'expires_in': 28800, 'refresh_token': 'a530066565dcc80721d22425ddd7a65932fc1490f5238a1d00aa81a2924ee796', 'scope': 'settings heartrate sleep activity weight profile', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyODQ2NTUyLCJpYXQiOjE2NTI4MTc3NTJ9.2hzxITbIt_EiPb-M5xp0RfwI0l6GER0GRlP-2HjlnVE', 'expires_in': 28800, 'refresh_token': '6fe689f5bc421be601da0460326c1b78dc79aa7c55adb4433339f33ce82dd44b', 'scope': 'sleep activity heartrate profile weight settings', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+5
+5
+de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyODQ2NTU1LCJpYXQiOjE2NTI4MTc3NTV9.9gViG7RAZI6xmxarGg0mCqyzhBm-yKjcjO9JA8PfZO0', 'expires_in': 28800, 'refresh_token': 'e6c5a3c0d737f4339a76102f970a5088e6a0625c885c355d73d223afda2e8006', 'scope': 'settings weight activity heartrate sleep profile', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyODQ2NTU1LCJpYXQiOjE2NTI4MTc3NTV9.zOjVKq_2TFLEhFwLbFulM4Rr_GTyeUkVH53GHwXyzKg', 'expires_in': 28800, 'refresh_token': 'cd429581df3d803d31e61a284ac86a7ec3a79be7fcccf90073e685a70abc673a', 'scope': 'heartrate sleep settings profile activity weight', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyODQ2NTU1LCJpYXQiOjE2NTI4MTc3NTV9.kPGZrE0Gd9xt2QMB6964Db8ydz80bM34oUN5wzYupM4', 'expires_in': 28800, 'refresh_token': '25986e559819f9f076970730155d78a0663c1ee37d45814a7496991fed39930d', 'scope': 'profile sleep activity settings weight heartrate', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyODQ2NTU1LCJpYXQiOjE2NTI4MTc3NTV9.Q4ysXb8yI6_Cnk9VLas3D5Qdr55R56CxSg3UMUl9srY', 'expires_in': 28800, 'refresh_token': '44894c910ef51995e5c8158516bdb996d909516877dedcbf12693d8bb150ddd6', 'scope': 'settings weight profile heartrate sleep activity', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUyODQ2NTU1LCJpYXQiOjE2NTI4MTc3NTV9.VTLUFqq2MBBG9kFCV7wMyiYwB6_h2GE3AFM-0Df9DQc', 'expires_in': 28800, 'refresh_token': '2e1ec9ebff4ee4f0e4eceef7acb931d293359db1d91f18d82f32938df104ac02', 'scope': 'activity profile heartrate sleep settings weight', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+5
+5
+5
+5
+5
+5
+5
+5
+de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMDI1NTk4LCJpYXQiOjE2NTI5OTY3OTh9.hODBWkAduJzVwjqNM82kNXYDyd7oRW2GvP8M7Kbx5Ko', 'expires_in': 28800, 'refresh_token': 'df01562664cdccefcf2db895ad9a5d8bc4beb43aae28d276d29f959b8bd0a5f3', 'scope': 'sleep activity heartrate profile weight settings', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMDI1NTk4LCJpYXQiOjE2NTI5OTY3OTh9.vY9tNvyiwIWeaEuCzclSQOMmmUZJZqhWOcZ4PuGXXQI', 'expires_in': 28800, 'refresh_token': '9424e43abebf8460b1f241e43cfd03dc1f3cd49ff6af9710880603a671f0ef15', 'scope': 'profile activity heartrate settings weight sleep', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMDI1NTk4LCJpYXQiOjE2NTI5OTY3OTh9.bQJ4uGcJldWGAsW29r9ylHZ7Ts_NTef2TTYsDvCtASo', 'expires_in': 28800, 'refresh_token': 'aeda7a0ea0e9e14034d1c6037c913093c8d4eb4bfb1ff949d8f4f3ad47666bda', 'scope': 'heartrate sleep settings activity profile weight', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMDI1NTk4LCJpYXQiOjE2NTI5OTY3OTh9.C-qdoVKx88sCRaIxXj9QBZ2wW-09mGtKPgM2AG0LfwU', 'expires_in': 28800, 'refresh_token': '61ef344468656b3153fe5ad00fd88bf3a05f2cc960a107f8ee8fcf6cf0bf8734', 'scope': 'heartrate weight settings sleep activity profile', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMDI1NTk4LCJpYXQiOjE2NTI5OTY3OTh9.ubkpD5UipMV0HnOqjLpUb0t9e1K8AJootuHtZlPjGsk', 'expires_in': 28800, 'refresh_token': '06aa5f8367de1e66aa3539b18baa98fdb29d1d8e3306d0c35de595ccf7316108', 'scope': 'activity profile heartrate sleep settings weight', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+7
+de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMDI1NjAyLCJpYXQiOjE2NTI5OTY4MDJ9.bTRKY9WspiRBqDxCzitay233dUDADmlboDP3pQAjmvM', 'expires_in': 28800, 'refresh_token': '62a88b131980b18b631af415ad519e47712e717a20ea316ca8ee297a59e3e5d4', 'scope': 'heartrate sleep settings profile activity weight', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMDI1NjAyLCJpYXQiOjE2NTI5OTY4MDJ9.SXnMhEqHwFq5L1RyR7_5LnYXc3YcLNjB-0cpr14OERM', 'expires_in': 28800, 'refresh_token': '279f4ceda80d9f6800962ce3992e9bb09684469d823135535b5d9b544070c936', 'scope': 'sleep activity heartrate profile weight settings', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+7
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMDI1NjAyLCJpYXQiOjE2NTI5OTY4MDJ9.FJuDghNakTjoTqvKlSzMw8Dcz7LRhV83TXPwWYV1jy0', 'expires_in': 28800, 'refresh_token': '9da316ce99fd34707a487939d94ed0c493388c8629e81ecd2d2ddd2dde0a3b4b', 'scope': 'settings activity heartrate weight profile sleep', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMDI1NjAyLCJpYXQiOjE2NTI5OTY4MDJ9.t9xtzPeqdLPcaW2smqP1VfNibrjVkYMrlzlU07bo5U8', 'expires_in': 28800, 'refresh_token': '916515505a58ac0376b4332a760a0a5cdecfa21655e89524e7207e76276b7070', 'scope': 'settings weight activity sleep profile heartrate', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMDI1NjAyLCJpYXQiOjE2NTI5OTY4MDJ9.4X4_rDBd0eQzXGoPsyMyQuNFUofZ6jbNgR1YbbC4R9M', 'expires_in': 28800, 'refresh_token': '6f446db43281646e6a01a1c6406880087771a1796e38555af76dee837d9c7017', 'scope': 'sleep activity heartrate profile weight settings', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+7
+7
+7
+7
+7
+7
+7
+7
+de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMzA1Nzk4LCJpYXQiOjE2NTMyNzY5OTh9.JPHZG3NNH985VaiooJL-spMOikUb5xDtWwSa3CTWlu8', 'expires_in': 28800, 'refresh_token': '5b8ea6b4664e10d0bfaa0c85c5369a6d6a4de2147d86d0728863f2638cc238ad', 'scope': 'settings activity weight profile sleep heartrate', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMzA1Nzk5LCJpYXQiOjE2NTMyNzY5OTl9.TpIKqfWV_JiIGqKCoXB9UqfBF--UCKZfBz-2N4xae7U', 'expires_in': 28800, 'refresh_token': 'cb9788f0c4391591cac37d6aee2d46ec0690673c6b7e8b127b1340aab4b8c33e', 'scope': 'settings activity weight profile sleep heartrate', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMzA1Nzk5LCJpYXQiOjE2NTMyNzY5OTl9.cTtiB8OMbyznr1M2yI1mpqTvP7VvJbMma_ngKMKhNEc', 'expires_in': 28800, 'refresh_token': '84d03e8cb34798a50a4f225032813ee04816cea5cd399903f380e8a5fe6987b5', 'scope': 'weight settings heartrate profile sleep activity', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: 916515505a58ac0376b4332a760a0a5cdecfa21655e89524e7207e76276b7070. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMzA1Nzk5LCJpYXQiOjE2NTMyNzY5OTl9.sbiNztC1hRLla7i_wnrfhg26eODlTdvA8MJcAV24Upw', 'expires_in': 28800, 'refresh_token': 'e5f18f530c2c325fa1fb1b5700739f9808d8f7fbc65058a04266e6fcef446c8f', 'scope': 'weight settings heartrate profile sleep activity', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+login.jsp
+tmui
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMzA1Nzk5LCJpYXQiOjE2NTMyNzY5OTl9.QS3l15pvQusa0VFIGjekUO7QP-aK4X336f7hfRXATxg', 'expires_in': 28800, 'refresh_token': '4d379a2779a97512db719e168a96b0ca313ae9b54df70e16a0439afc769b8562', 'scope': 'heartrate weight sleep profile activity settings', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+11
+de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMzA1ODAyLCJpYXQiOjE2NTMyNzcwMDJ9.TTQUJPLVtv-I9B2lJPFCBJqlXjvhk5z-ZB2KTYzQRhM', 'expires_in': 28800, 'refresh_token': '18950db28c0707629ba8e29a1a36a700c905658ff960116b5be887152ee19e2c', 'scope': 'sleep weight heartrate settings activity profile', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMzA1ODAyLCJpYXQiOjE2NTMyNzcwMDJ9.VWlkdDEnEHEJwTkFKUC1xZhWKNx5C-LMHvIwnohz8w8', 'expires_in': 28800, 'refresh_token': 'f41da7ab9b4f6cbce8a0c5d0befc6a20c2670abbe5f9067ed8672bbb1cfb3155', 'scope': 'profile sleep settings heartrate activity weight', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMzA1ODAyLCJpYXQiOjE2NTMyNzcwMDJ9.JpHN-B0WA2XZKNCa-fwyHfVuHJgEhRAG_v6T2yDAGjU', 'expires_in': 28800, 'refresh_token': '432df83ce19a2c1ed78015f7a518e7344922169c938651a32e840c78f325d7f7', 'scope': 'weight settings heartrate profile sleep activity', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: 916515505a58ac0376b4332a760a0a5cdecfa21655e89524e7207e76276b7070. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMzA1ODAzLCJpYXQiOjE2NTMyNzcwMDN9.wAXrq03S0tlv-r82JyVXr2a2iVaelY6AWRWm92YhQeA', 'expires_in': 28800, 'refresh_token': 'c5302d981cca01dce9389ee41442eda6f2cbbe887ce5ac6bbbb039811937fb29', 'scope': 'settings heartrate activity profile sleep weight', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+login.jsp
+tmui
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMzA1ODAzLCJpYXQiOjE2NTMyNzcwMDN9.O0kae_27paP45yERdt9urNtkRMXY1rht0leX7jcjqTY', 'expires_in': 28800, 'refresh_token': 'c0408fcc05ded8886e1902eb28b8658d45dd86ed07d386db293d022b028878b6', 'scope': 'activity heartrate profile settings weight sleep', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+11
+11
+11
+11
+11
+11
+11
+11
+11
+de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMzA1OTY4LCJpYXQiOjE2NTMyNzcxNjh9.4J18ZO5YCWaTVfegVartm9NJ6pwyvzh6WTr9r2n9ESE', 'expires_in': 28800, 'refresh_token': '4e65e7dc41705e2d53cb9bba6419bbad7e4a64d391b73f9e1916bf5a7c76d79c', 'scope': 'activity weight profile heartrate settings sleep', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMzA1OTY4LCJpYXQiOjE2NTMyNzcxNjh9.aKrPHDUfWZBpg5eIDehO0fkYPXNlz6P4ppw5tZK9VQY', 'expires_in': 28800, 'refresh_token': '16efb8cd6c37140931979aad0e5df35e5bf439a2f8bb7da1f03ead1ea5fa1eb2', 'scope': 'heartrate weight sleep profile activity settings', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMzA1OTY4LCJpYXQiOjE2NTMyNzcxNjh9.HQnbeYJM_PaEYIzOicnBp2EvTqwXIOGlLFCjGpL6gAo', 'expires_in': 28800, 'refresh_token': '0cee507b9db43078835937e767eb56cb77a3849bdc108259eda7bd4c0203c155', 'scope': 'heartrate settings profile sleep activity weight', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli/home/ec2-user/.local/lib/python3.7/site-packages/flask_sqlalchemy/__init__.py:873: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/bin/waitress-serve", line 8, in <module>
+    sys.exit(run())
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/waitress/runner.py", line 298, in run
+    _serve(app, **kw)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/waitress/__init__.py", line 13, in serve
+    server = _server(app, **kw)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/waitress/server.py", line 85, in create_server
+    sockinfo=sockinfo,
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/waitress/server.py", line 244, in __init__
+    self.bind_server_socket()
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/waitress/server.py", line 361, in bind_server_socket
+    self.bind(sockaddr)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/waitress/wasyncore.py", line 396, in bind
+    return self.socket.bind(addr)
+OSError: [Errno 98] Address already in use
+
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: 916515505a58ac0376b4332a760a0a5cdecfa21655e89524e7207e76276b7070. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMzA1OTY4LCJpYXQiOjE2NTMyNzcxNjh9.GCd1Qy2T08T_s_WnV44ozMJsd0mNV0caLX90DAQ5qlU', 'expires_in': 28800, 'refresh_token': 'c020c06561c1b7c30e52331f8f40118c1f9f68e827aa81d37b42440096d86919', 'scope': 'heartrate settings weight profile sleep activity', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+login.jsp
+tmui
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzMzA1OTY4LCJpYXQiOjE2NTMyNzcxNjh9.o1z0qUtUwmBpREN6dSyg-PoIa3d1TL_RDbXvl4_H3rw', 'expires_in': 28800, 'refresh_token': '89aec12d9078d1a4a8c68d5b99c99b5fa4880741469c6277b348e7ece116dc92', 'scope': 'sleep settings activity weight profile heartrate', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+11
+11
+11
+11
+11
+de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzNjMwNDczLCJpYXQiOjE2NTM2MDE2NzN9._V3QhyYb5gVPMfPKBZ0DeUnoKCFRal4lj0poY_QqLII', 'expires_in': 28800, 'refresh_token': '462aa0516e03d6e48fa4f4402d8c1d3c63ba6de11c477ca46e77289eefd30c84', 'scope': 'heartrate profile activity sleep weight settings', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzNjMwNDc0LCJpYXQiOjE2NTM2MDE2NzR9.BBNnPLYbElgyKU002JLjaY0kyaibzHIY9SaIE-J4D-E', 'expires_in': 28800, 'refresh_token': '887dfc24a0457616e14f7382b3c224571aff107481dbbbc9289731239431fc21', 'scope': 'activity sleep heartrate profile settings weight', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzNjMwNDc0LCJpYXQiOjE2NTM2MDE2NzR9.GW0R7-Tk9Hldb2SQM6WKQeiMSOXWVYRwmllHco1SEkM', 'expires_in': 28800, 'refresh_token': '62ad36ec7babfa410e7bc409bf10d72b7d65dd28ab54810ca74298095b222384', 'scope': 'heartrate activity sleep weight profile settings', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: 916515505a58ac0376b4332a760a0a5cdecfa21655e89524e7207e76276b7070. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzNjMwNDc0LCJpYXQiOjE2NTM2MDE2NzR9.h6Dneh6LjKUpMnvMYWamnLoklyzzWGIWRuPFNNOxccI', 'expires_in': 28800, 'refresh_token': '72eb10196fbe2b5bb85d84c8127e1be921cd230bd88584d2e4762cd0027fe828', 'scope': 'activity profile weight settings heartrate sleep', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+login.jsp
+tmui
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjUzNjMwNDc0LCJpYXQiOjE2NTM2MDE2NzR9._jLN6D56dICGx5rbzhWTlhTtcL9s-Kh_FjSo0Bnv83w', 'expires_in': 28800, 'refresh_token': 'e69998781d1f9d9ee5c2619124e09432aa97c07405022c543b13904d3c14f3c1', 'scope': 'settings activity weight profile sleep heartrate', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+14
+14
+14
+14
+14
+de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI3ODQzLCJpYXQiOjE2NTUzOTkwNDN9.chRyPjDzJvaj3m9Mh6XkHWoScKlEQ4V8BqdWcUIpnfw', 'expires_in': 28800, 'refresh_token': 'd1f32eee773c42dd1b10360d9f95087a4ee1dbe58cb0d26d6ddc11a089b5457b', 'scope': 'sleep activity profile weight settings heartrate', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI3ODQzLCJpYXQiOjE2NTUzOTkwNDN9.oRZ1f6__jD97vGsQTpzQIc_EeypeCfVky9wB-KNLqJI', 'expires_in': 28800, 'refresh_token': '7db8133a99569a82729b38333ac538e4846fca24869c6ea804724bff3831e038', 'scope': 'weight profile activity settings heartrate sleep', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI3ODQzLCJpYXQiOjE2NTUzOTkwNDN9.oD3uIGKCGYBDcRKImgy1mZaJJFEMpeHirONrZsXEQk4', 'expires_in': 28800, 'refresh_token': 'c9668ecc91eeb81a164095fe1a727f3f3f46e532721768704cafe4b5c03da0ce', 'scope': 'weight profile activity settings heartrate sleep', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: 916515505a58ac0376b4332a760a0a5cdecfa21655e89524e7207e76276b7070. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI3ODQzLCJpYXQiOjE2NTUzOTkwNDN9.2UCQXmXK5WP46DPLz6talzpXA_j6RBA7q0H2hyunZbo', 'expires_in': 28800, 'refresh_token': '05b5bcae6b79e500471d222d4f4500ea45d988ec361df9fca7bd4a5b13218ece', 'scope': 'sleep profile activity weight settings heartrate', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+login.jsp
+tmui
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI3ODQzLCJpYXQiOjE2NTUzOTkwNDN9.CsVXmqe9kHFIj7KKdjpPjoH5fxsy78OSbB0Rq9zDaNE', 'expires_in': 28800, 'refresh_token': '550ac65222ee147421459c490181228a364aa262334f8bd3893fff3532d0858d', 'scope': 'weight settings profile heartrate activity sleep', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+35
+35
+35
+35
+35
+de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI4MDAyLCJpYXQiOjE2NTUzOTkyMDJ9.-9B41YobgkFzMTfPQvT--67CZiWvCjwe0NW0tw1PGQ4', 'expires_in': 28800, 'refresh_token': '5a0d21c6f1a0949e290a9b969afff3eaec67cb473437611d5a17af528eb59519', 'scope': 'heartrate weight sleep activity profile settings', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI4MDAyLCJpYXQiOjE2NTUzOTkyMDJ9.aSAa7pz0hYgJNr5GHD70zG8KsSSBtUWhoLYINTNcJms', 'expires_in': 28800, 'refresh_token': '44da29d0ac1a41431d8beeb5d1eb1ceb92cc3bc00c3f7de7ed792ec876b4cdf2', 'scope': 'sleep profile activity weight settings heartrate', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI4MDAyLCJpYXQiOjE2NTUzOTkyMDJ9.yhlBxYeA4B9d8XkOv-tdiO-kWzddvko_8vOqvIrCuco', 'expires_in': 28800, 'refresh_token': '62080c70e61d1439c44227aee58bb6e956c02fba75a3cd189eea54c24d4b4c6f', 'scope': 'profile activity heartrate sleep weight settings', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: 916515505a58ac0376b4332a760a0a5cdecfa21655e89524e7207e76276b7070. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI4MDAzLCJpYXQiOjE2NTUzOTkyMDN9.IZxGGqTZckF-uwNz1EcqoBx2F0DY1lI3JT8ULwQXV98', 'expires_in': 28800, 'refresh_token': '35219caeb0db62c0b5c966fbf3a0a1feafc1acbf6c953e56d0291c859dba3bb6', 'scope': 'weight activity profile heartrate settings sleep', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+login.jsp
+tmui
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI4MDAzLCJpYXQiOjE2NTUzOTkyMDN9.9VqWbgRROxQT4atAM96LYJ7sySqZYasBCzXkhB4FwxY', 'expires_in': 28800, 'refresh_token': 'ce4cdec107c03eb67dde67a98b31ae05b188a590fbcb4ce57dc96193c7b07e50', 'scope': 'weight settings profile heartrate activity sleep', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+35
+35
+35
+35
+35
+de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI4MTk4LCJpYXQiOjE2NTUzOTkzOTh9.B9sbyrhIUOO_hBTMxbY8bQEl609EFrbMIPkDBMZKjLc', 'expires_in': 28800, 'refresh_token': '8d23ce33b705e9a1ede25f9db392a540f026120cf1c0cdbe9d2bc61b88e0eca2', 'scope': 'weight profile activity settings heartrate sleep', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI4MTk4LCJpYXQiOjE2NTUzOTkzOTh9.1tupHadfvXu_MCgS4bQibO8VzGXRTsnHwJlf3wtke4w', 'expires_in': 28800, 'refresh_token': '9336049288d1abf9afc8b13746de8883fd53c0ffdadf5d5a6d14e3f921e23616', 'scope': 'profile activity heartrate sleep weight settings', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI4MTk4LCJpYXQiOjE2NTUzOTkzOTh9.tEbxymtgAbAz-fu6PxA9bZqPMXOvE32GXpH3G0pn2Oc', 'expires_in': 28800, 'refresh_token': '765b38aa24439079d2e8390cddaea299b6b22866d3829e1c0bce972bf9d43148', 'scope': 'activity sleep weight settings profile heartrate', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: 916515505a58ac0376b4332a760a0a5cdecfa21655e89524e7207e76276b7070. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI4MTk4LCJpYXQiOjE2NTUzOTkzOTh9.6WXdpm6q1gDJ7g7haJCRXoVmo8bWVpzHt04z-f2RrhA', 'expires_in': 28800, 'refresh_token': '75523a7bc4fab241830ce4e33288e9742f03c8d25861bb2489b59052473e3d8d', 'scope': 'weight profile activity settings heartrate sleep', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+login.jsp
+tmui
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI4MTk4LCJpYXQiOjE2NTUzOTkzOTh9.Yass5cL_fMYlGdgGu7jlhGpi64phGgehVXNskshOtuo', 'expires_in': 28800, 'refresh_token': 'bb2f6f41a534eda0c2a95e019bdb7a426b06020edd43000d1e7068e54b620b09', 'scope': 'sleep weight activity heartrate settings profile', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+35
+35
+35
+35
+35
+de
+c
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+tim@radiclescience.com
+Tim Tadros
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI4MzI3LCJpYXQiOjE2NTUzOTk1Mjd9.0un1ZY6nRXkfCT-BNmsyCrChm1HpCCj8EoiMmpry2_c', 'expires_in': 28800, 'refresh_token': 'e19b9fc2d4108b1e43850a51ebec075c7a92276d687dcbc197f1294ed275cd3a', 'scope': 'sleep profile activity weight settings heartrate', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+kbagai@ucsd.edu
+Kabir Bagai
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI4MzI3LCJpYXQiOjE2NTUzOTk1Mjd9.E9XyGTBW5KyZvWp-xNadTQQGVdlibQlPeASR3G4lYbU', 'expires_in': 28800, 'refresh_token': '036e9107b069159495ce3cda1c1485a3fdea86873b06b3d47adb64e7143d2554', 'scope': 'heartrate weight sleep activity profile settings', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+phpinfo
+_profiler
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI4MzI3LCJpYXQiOjE2NTUzOTk1Mjd9.rIglNWSeH_jMSQta2RP3IImT5fngsgKEo-xDX6lpuM8', 'expires_in': 28800, 'refresh_token': '06a2298c50c6ee34fba19220426713be980b8d580d979219d04436cc6eff7d30', 'scope': 'sleep heartrate activity weight profile settings', 'token_type': 'Bearer', 'user_id': '3G5286'}
+bethanylogic@gmail.com
+Bethany Pauli
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: 916515505a58ac0376b4332a760a0a5cdecfa21655e89524e7207e76276b7070. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+clarissapauli@gmail.com
+Clarissa Pauli
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDI4MzI3LCJpYXQiOjE2NTUzOTk1Mjd9.3GuJYXdrcjpXuRE0cJ0A-uGDufcq3KkwZaFk5nQtxYw', 'expires_in': 28800, 'refresh_token': '348c5923f0081b3fe60a6ff525c915a41377ed2fbe5c28d9dab9539504586bd1', 'scope': 'heartrate profile sleep activity settings weight', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+login.jsp/home/ec2-user/.local/lib/python3.7/site-packages/flask_sqlalchemy/__init__.py:873: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: e66294910f7a1f9cb2d6dd0026275d9c2a30ade4d50df514134ee0df38faeb7c. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5ODkzLCJpYXQiOjE2NTU0MTEwOTN9.DGCQMIMmrYJKeI7j6JgaOEzMELDzRRpOhgNY_NrXyWw', 'expires_in': 28800, 'refresh_token': 'bdc6554794c40044595610f4685ec73fe30a36eb87e62689838e8cc1d9016e42', 'scope': 'weight settings profile heartrate activity sleep', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5ODkzLCJpYXQiOjE2NTU0MTEwOTN9.ipMmYF0augwWQnEW6yjU84OupkE-KyRptxC33a5VtS8', 'expires_in': 28800, 'refresh_token': '6a33a505927eaca84d90d5d1805e70625aca6495191fbdaa138eb9f66e9943e9', 'scope': 'sleep weight activity heartrate settings profile', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5ODkzLCJpYXQiOjE2NTU0MTEwOTN9.I58eScOx7URTB1_u8CYD5T8c6-NUCBt0c_XLAJFAs6o', 'expires_in': 28800, 'refresh_token': 'b6431e6b57f398a308e875ef044c3ed43358021141c491e2c183a344b052ac8f', 'scope': 'profile weight sleep activity settings heartrate', 'token_type': 'Bearer', 'user_id': '3G5286'}
+{'errors': [{'errorType': 'invalid_grant', 'message': 'Refresh token invalid: 916515505a58ac0376b4332a760a0a5cdecfa21655e89524e7207e76276b7070. Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5ODkzLCJpYXQiOjE2NTU0MTEwOTN9.UucG7jpUlqVrMUS9QlrEhWBEBcJ8I0iz60Y84Hl3YZc', 'expires_in': 28800, 'refresh_token': '107562e8b9fe3b29db7c18f19952d154a1b8c08d8bbf4f509025bda331f9b5dc', 'scope': 'profile activity heartrate sleep weight settings', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5ODk0LCJpYXQiOjE2NTU0MTEwOTR9.SKbWJEQezKD0xHwdDOLg3sSE_1kksrFnmdm5IfyBERc', 'expires_in': 28800, 'refresh_token': '22217e6f8a7c6790d2c5b5281dd3bb68138e1f4bea51c45802af52b1e4b94114', 'scope': 'weight profile activity settings heartrate sleep', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+[{'email': 'de', 'auth_token': '', 'refresh_token': ''}, {'email': 'tim@radiclescience.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5ODkzLCJpYXQiOjE2NTU0MTEwOTN9.DGCQMIMmrYJKeI7j6JgaOEzMELDzRRpOhgNY_NrXyWw', 'refresh_token': 'bdc6554794c40044595610f4685ec73fe30a36eb87e62689838e8cc1d9016e42'}, {'email': 'kbagai@ucsd.edu', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5ODkzLCJpYXQiOjE2NTU0MTEwOTN9.ipMmYF0augwWQnEW6yjU84OupkE-KyRptxC33a5VtS8', 'refresh_token': '6a33a505927eaca84d90d5d1805e70625aca6495191fbdaa138eb9f66e9943e9'}, {'email': 'phpinfo', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5ODkzLCJpYXQiOjE2NTU0MTEwOTN9.I58eScOx7URTB1_u8CYD5T8c6-NUCBt0c_XLAJFAs6o', 'refresh_token': 'b6431e6b57f398a308e875ef044c3ed43358021141c491e2c183a344b052ac8f'}, {'email': 'bethanylogic@gmail.com', 'auth_token': '', 'refresh_token': ''}, {'email': 'clarissapauli@gmail.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5ODkzLCJpYXQiOjE2NTU0MTEwOTN9.UucG7jpUlqVrMUS9QlrEhWBEBcJ8I0iz60Y84Hl3YZc', 'refresh_token': '107562e8b9fe3b29db7c18f19952d154a1b8c08d8bbf4f509025bda331f9b5dc'}, {'email': 'login.jsp', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5ODk0LCJpYXQiOjE2NTU0MTEwOTR9.SKbWJEQezKD0xHwdDOLg3sSE_1kksrFnmdm5IfyBERc', 'refresh_token': '22217e6f8a7c6790d2c5b5281dd3bb68138e1f4bea51c45802af52b1e4b94114'}]
+{'errors': [{'errorType': 'invalid_request', 'message': 'Missing parameters: refresh_token Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5OTMzLCJpYXQiOjE2NTU0MTExMzN9.tl7SQBVnU-xSwCJiNVbW5_epDcXPD_jCHgbaCEsxUDY', 'expires_in': 28800, 'refresh_token': 'b6123e430b89d7443432e14125628f502d61c9f365fe89c3e3416cae78cea864', 'scope': 'settings profile weight sleep activity heartrate', 'token_type': 'Bearer', 'user_id': '9XFWSL'}
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5OTMzLCJpYXQiOjE2NTU0MTExMzN9.T5KYcmyN6-MArpDxFWNBEsFm3Z7YE8AvOL9u4WRWWyI', 'expires_in': 28800, 'refresh_token': 'fde009757cdbdeeec7566fec3267e69059d9ede1aa717461e97ebd42501b7b8d', 'scope': 'activity heartrate sleep weight profile settings', 'token_type': 'Bearer', 'user_id': '8GVVXL'}
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5OTMzLCJpYXQiOjE2NTU0MTExMzN9.tNvKmliEdOtsyYtTv6DKZXIVsMniM-cJ8PiqGC2J7Og', 'expires_in': 28800, 'refresh_token': 'c8b9f9341e62d54f4096444ae77ab213aedaaf29bf5b678c4ff8d9a22e9bd7b9', 'scope': 'settings profile weight sleep activity heartrate', 'token_type': 'Bearer', 'user_id': '3G5286'}
+{'errors': [{'errorType': 'invalid_request', 'message': 'Missing parameters: refresh_token Visit https://dev.fitbit.com/docs/oauth2 for more information on the Fitbit Web API authorization process.'}], 'success': False}
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5OTMzLCJpYXQiOjE2NTU0MTExMzN9.MSjVW10REnn78ZkltnAqHN3OmrI-OPYKBlG3GORqKC8', 'expires_in': 28800, 'refresh_token': '6c171b08d37285a45cc2f0287f365df4b51a67583e2ab5aa1ec018c4d3014317', 'scope': 'activity sleep settings weight profile heartrate', 'token_type': 'Bearer', 'user_id': '2VP43V'}
+{'access_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5OTM0LCJpYXQiOjE2NTU0MTExMzR9.IxKAYGP9ArFJKdk9RETMUdYFLR9CFB3cRsulado1VlM', 'expires_in': 28800, 'refresh_token': 'ceab2c3dfe3a911a2565a79ff185d64d8593049c97a3895ab8c6e4fe02427411', 'scope': 'sleep activity heartrate settings weight profile', 'token_type': 'Bearer', 'user_id': '9XCGHH'}
+[{'email': 'de', 'auth_token': '', 'refresh_token': ''}, {'email': 'tim@radiclescience.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5OTMzLCJpYXQiOjE2NTU0MTExMzN9.tl7SQBVnU-xSwCJiNVbW5_epDcXPD_jCHgbaCEsxUDY', 'refresh_token': 'b6123e430b89d7443432e14125628f502d61c9f365fe89c3e3416cae78cea864'}, {'email': 'kbagai@ucsd.edu', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5OTMzLCJpYXQiOjE2NTU0MTExMzN9.T5KYcmyN6-MArpDxFWNBEsFm3Z7YE8AvOL9u4WRWWyI', 'refresh_token': 'fde009757cdbdeeec7566fec3267e69059d9ede1aa717461e97ebd42501b7b8d'}, {'email': 'phpinfo', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5OTMzLCJpYXQiOjE2NTU0MTExMzN9.tNvKmliEdOtsyYtTv6DKZXIVsMniM-cJ8PiqGC2J7Og', 'refresh_token': 'c8b9f9341e62d54f4096444ae77ab213aedaaf29bf5b678c4ff8d9a22e9bd7b9'}, {'email': 'bethanylogic@gmail.com', 'auth_token': '', 'refresh_token': ''}, {'email': 'clarissapauli@gmail.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5OTMzLCJpYXQiOjE2NTU0MTExMzN9.MSjVW10REnn78ZkltnAqHN3OmrI-OPYKBlG3GORqKC8', 'refresh_token': '6c171b08d37285a45cc2f0287f365df4b51a67583e2ab5aa1ec018c4d3014317'}, {'email': 'login.jsp', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDM5OTM0LCJpYXQiOjE2NTU0MTExMzR9.IxKAYGP9ArFJKdk9RETMUdYFLR9CFB3cRsulado1VlM', 'refresh_token': 'ceab2c3dfe3a911a2565a79ff185d64d8593049c97a3895ab8c6e4fe02427411'}]/home/ec2-user/.local/lib/python3.7/site-packages/flask_sqlalchemy/__init__.py:873: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+/home/ec2-user/.local/lib/python3.7/site-packages/flask_sqlalchemy/__init__.py:873: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+[{'email': 'de', 'auth_token': '', 'refresh_token': ''}, {'email': 'tim@radiclescience.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMDc4LCJpYXQiOjE2NTU0MTEyNzh9.O41uRSWzLxJFQ7R3RKkYs9iY0TxrsKywkH-BPzj8SLc', 'refresh_token': 'a5fbf3cd64aeee7765b936140a2f7368a2815f3da14d74d510f7fe2f996324f5'}, {'email': 'kbagai@ucsd.edu', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMDc5LCJpYXQiOjE2NTU0MTEyNzl9.TMZtKCs3NE-hz7mM7gCVrADxe86aYyTdH39EHyShvn4', 'refresh_token': '17926c2269f2ef02793a02805aa585b4225881f2207ed5997fbb5946e0f13832'}, {'email': 'phpinfo', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMDc5LCJpYXQiOjE2NTU0MTEyNzl9.xuRKgz9t2J9tWE9CJyDn-vlzHk6_RR3pCH-Iln9ELog', 'refresh_token': '72c3663004cdfa426edafa2db61f780c57ad6d032496ff2917231d8ac4860e2c'}, {'email': 'bethanylogic@gmail.com', 'auth_token': '', 'refresh_token': ''}, {'email': 'clarissapauli@gmail.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMDc5LCJpYXQiOjE2NTU0MTEyNzl9.09kGx1PxM77GF4FBxzIhULTkv1DHiu-_1pgiSJsfHWY', 'refresh_token': '11c4dad7409b4f086dd80823d2cada009315b09890b11035784c000251b8eb65'}, {'email': 'login.jsp', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMDc5LCJpYXQiOjE2NTU0MTEyNzl9.Olf3rjW0B0cQ2WAKvxSsyKYImDGyE3QGuT4Wd-dE9XE', 'refresh_token': '62947a4a4f08eaec627d59afaf4b51e8f9ee83c37122bc61deebc623e088f078'}]
+[{'email': 'de', 'auth_token': '', 'refresh_token': ''}, {'email': 'tim@radiclescience.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMDk5LCJpYXQiOjE2NTU0MTEyOTl9.MtggFew378tp7qIApgpqFx23RSqJogCX3vVa0fWaTdk', 'refresh_token': 'dfc225746610b47f88c85cd4e773530ca4e0eade1e369427a10f8f6174245eda'}, {'email': 'kbagai@ucsd.edu', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMDk5LCJpYXQiOjE2NTU0MTEyOTl9.rYI5ybGwGKdfTJsAs2Mu6fPlYqXUDjrP3nvR9tgnV2w', 'refresh_token': '10677fbf3bf9c4850ed45b8ff31c46eb56587e164c9079476d378bca17cd6e8f'}, {'email': 'phpinfo', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMDk5LCJpYXQiOjE2NTU0MTEyOTl9.ABmD1Ilj7JkLByNQvphgacsGYOcMN-NsGx84e5KFGCc', 'refresh_token': 'a3a29ffd8a7c98a64ad52b070e372643a20ad13dbe6ae1f0758206de08b940a0'}, {'email': 'bethanylogic@gmail.com', 'auth_token': '', 'refresh_token': ''}, {'email': 'clarissapauli@gmail.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMTAwLCJpYXQiOjE2NTU0MTEzMDB9.EqBBEITwpLoYiGQm5EVUiuhj5yisi8_tPfszqxev7OI', 'refresh_token': 'd53199fd20db277226c3766209c7dadf527affc9b487723f16834ad8f79d51dc'}, {'email': 'login.jsp', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMTAwLCJpYXQiOjE2NTU0MTEzMDB9.i97iZ7O7khSAfbUUnTQDapNzBYN6LHk_zFE49z4WsLc', 'refresh_token': 'c7f1e576e530a6f05edc6ffddeb0914a0d7021f3cdb9a3e5a7e2f7913b59aabd'}]
+[{'email': 'de', 'auth_token': '', 'refresh_token': ''}, {'email': 'tim@radiclescience.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMTc1LCJpYXQiOjE2NTU0MTEzNzV9.7dGL8ZPoygsD1eB-ARCHMX97ssGTQOuiC0U74FInBsg', 'refresh_token': '487dfaeaf81e0dad4feb9fecee88273b3c6b553a4b8cea08d20fa4da5ed34252'}, {'email': 'kbagai@ucsd.edu', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMTc1LCJpYXQiOjE2NTU0MTEzNzV9.mLxaVFezzp_M-kK3AGN_BTh8eHuhKv_NGyQRG4oGydw', 'refresh_token': 'a980fbbfe4d737c715b6d6b23e4a94f4e91fe5a2f5c61bc67b444fee1d688316'}, {'email': 'phpinfo', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMTc1LCJpYXQiOjE2NTU0MTEzNzV9.Flz7Kh95Cj6odzlgVjBO6jUGzvyEke1_aKJGVQcTuf8', 'refresh_token': 'a609755875322251853444b2b47deb692301ee4b9f5268eabfa441fc57d31cf1'}, {'email': 'bethanylogic@gmail.com', 'auth_token': '', 'refresh_token': ''}, {'email': 'clarissapauli@gmail.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMTc2LCJpYXQiOjE2NTU0MTEzNzZ9.raCXRNlM0tNTw7hiEC9W5I2f1kA12id3Mu2RRJNvo-M', 'refresh_token': 'dea9caa34b9b78220562e99c9366ba90055249d94bb7e41907ba756f1bb05de2'}, {'email': 'login.jsp', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMTc2LCJpYXQiOjE2NTU0MTEzNzZ9.mOcKrMOXWPArlt01ZzXUWadthmNQTXG4hc2k9EDtD5g', 'refresh_token': 'fe98854c8382f93c8b1abc222bd16a20d8df40553cf9dc207037d0ab70800703'}]
+/home/ec2-user/.local/lib/python3.7/site-packages/flask_sqlalchemy/__init__.py:873: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+[{'email': 'de', 'auth_token': '', 'refresh_token': '', 'user_id': 1, 'token_id': 2}, {'email': 'tim@radiclescience.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMjgwLCJpYXQiOjE2NTU0MTE0ODB9.tQK3KrK9dX2xasBWoDwYoyAnqKoRXkf5JfK2lGsP7Lk', 'refresh_token': '86e4dd065abdb68fd66b91bf8064360cf6663cd05719d32162d9a5c5173bb361', 'user_id': 2, 'token_id': 3}, {'email': 'kbagai@ucsd.edu', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMjgwLCJpYXQiOjE2NTU0MTE0ODB9.v0us-jvWlN4BpN0NW6g-pYZcU0KCm_O0KBSLejws-l4', 'refresh_token': 'a075bf7af45536a6b8ee6b383cfa727a3812a9fa5b07c8c7fab3337ab34860a7', 'user_id': 3, 'token_id': 5}, {'email': 'phpinfo', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMjgwLCJpYXQiOjE2NTU0MTE0ODB9.MhiVksKHlKkk9yfxvDy42GW3G0ae6ZEKyzEvrvCDxYs', 'refresh_token': 'a3e1dbee5076187179ae1cf23e619ee32e1b14cb332b8ebad484d13de57f7f31', 'user_id': 4, 'token_id': 6}, {'email': 'bethanylogic@gmail.com', 'auth_token': '', 'refresh_token': '', 'user_id': 5, 'token_id': 37}, {'email': 'clarissapauli@gmail.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMjgwLCJpYXQiOjE2NTU0MTE0ODB9.0_nuD86cAiLOYM8i0X3Tbs7w4XneFkBaHFu4Xqe22lQ', 'refresh_token': '9944b51ef9c4d40f6ea65547e349678a93b915db86f7b31dbcf2a5161adac574', 'user_id': 6, 'token_id': 39}, {'email': 'login.jsp', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwMjgxLCJpYXQiOjE2NTU0MTE0ODF9.7csst_Y6MtH0zP-4wlK9n_74fpnCXN4udWiwZUZAkGI', 'refresh_token': '52d0f373f383f1d1ae40294870cfde62532d1619725c518e10397d01c316294c', 'user_id': 7, 'token_id': 60}]
+/home/ec2-user/.local/lib/python3.7/site-packages/flask_sqlalchemy/__init__.py:873: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+[{'email': 'de', 'auth_token': '', 'refresh_token': '', 'user_id': 1, 'token_id': 2}, {'email': 'tim@radiclescience.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwNjc2LCJpYXQiOjE2NTU0MTE4NzZ9.FviS1BS9DXhRbYhM2qZSCnVH6Gt8Ih9G0qbjtPzOczs', 'refresh_token': 'c8c006b8fee003a8e77d4a319070086262c10217ed550486945115d6298d3684', 'user_id': 2, 'token_id': 3}, {'email': 'kbagai@ucsd.edu', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI4R1ZWWEwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwNjc2LCJpYXQiOjE2NTU0MTE4NzZ9.kj7SyxicJtCY0UXcPSLKzeDx1ijJ8hV-3CGJysIfmk4', 'refresh_token': '723a324daca10acf8727aafa1d6275f95bddbaeb4f337a47d4412e7c09e13ab3', 'user_id': 3, 'token_id': 5}, {'email': 'phpinfo', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIzRzUyODYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwNjc3LCJpYXQiOjE2NTU0MTE4Nzd9.2UXTHK5-6ZrMppYSt_Dqw4jJ3N5s1L3NZ0enZBaG6-U', 'refresh_token': '318fcd193a701bf028d401031b9885607c499269107f55099b9a1e56989945bf', 'user_id': 4, 'token_id': 6}, {'email': 'bethanylogic@gmail.com', 'auth_token': '', 'refresh_token': '', 'user_id': 5, 'token_id': 37}, {'email': 'clarissapauli@gmail.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiIyVlA0M1YiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc2V0IHJhY3QgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwNjc3LCJpYXQiOjE2NTU0MTE4Nzd9.7UK7wTJj2OEY-oWysskupsR6SodOS1ECJrnRUogGEbk', 'refresh_token': '87e3927b4afbac0e1d0250cb6f448743f70c12dc192256cf916fba0b33e78296', 'user_id': 6, 'token_id': 39}, {'email': 'login.jsp', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WENHSEgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NDQwNjc3LCJpYXQiOjE2NTU0MTE4Nzd9.Fz4EYk8fTFFJ_SsKjrj3nLAVN3uRQYwO8Xal3RiXB0g', 'refresh_token': '05f4b7e7f1c524abc625598f7fdb779f5052ae99e1bdb8af64a20eba969b0889', 'user_id': 7, 'token_id': 60}]
+/home/ec2-user/.local/lib/python3.7/site-packages/flask_sqlalchemy/__init__.py:873: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+Created Database
+[{'email': 'kabir@radiclescience.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NTE1NjI1LCJpYXQiOjE2NTU0ODY4MjV9.eJut7b0zxcYakmRk_KSCrKFaYPHIEC5MrqDihdyWERQ', 'refresh_token': '6827dabf1c07109e74fc9027561acce4cc774f93685ba3c56a8729664eb93eaf'}]
+/home/ec2-user/.local/lib/python3.7/site-packages/flask_sqlalchemy/__init__.py:873: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+[{'email': 'kabir@radiclescience.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NTE1Njk0LCJpYXQiOjE2NTU0ODY4OTR9.2UlvJZWkMQbNgij3-BQMz6v6JRHFwzjQ2v-LS0oRGiE', 'refresh_token': '5680331ffd1b790f6828ff156eca62bd984f62fddb7e1f0709c146bdb86fb6c6'}]
+/home/ec2-user/.local/lib/python3.7/site-packages/flask_sqlalchemy/__init__.py:873: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+[{'email': 'kabir@radiclescience.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NTE1NzM4LCJpYXQiOjE2NTU0ODY5Mzh9.TttnpA7d8geEwO8eb0A0_o_Kf5wKRA-dXFISBcvLOHo', 'refresh_token': '28f5b5de34a508e9b54a1dd68ec370950192e83ad337489886d6ddb6d9cddb5e', 'id': 1}]
+/home/ec2-user/.local/lib/python3.7/site-packages/flask_sqlalchemy/__init__.py:873: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+Error: Bad module 'main'
+
+Usage:
+
+    waitress-serve [OPTS] MODULE:OBJECT
+
+Standard options:
+
+    --help
+        Show this information.
+
+    --call
+        Call the given object to get the WSGI application.
+
+    --host=ADDR
+        Hostname or IP address on which to listen, default is '0.0.0.0',
+        which means "all IP addresses on this host".
+
+        Note: May not be used together with --listen
+
+    --port=PORT
+        TCP port on which to listen, default is '8080'
+
+        Note: May not be used together with --listen
+
+    --listen=ip:port
+        Tell waitress to listen on an ip port combination.
+
+        Example:
+
+            --listen=127.0.0.1:8080
+            --listen=[::1]:8080
+            --listen=*:8080
+
+        This option may be used multiple times to listen on multiple sockets.
+        A wildcard for the hostname is also supported and will bind to both
+        IPv4/IPv6 depending on whether they are enabled or disabled.
+
+    --[no-]ipv4
+        Toggle on/off IPv4 support.
+
+        Example:
+
+            --no-ipv4
+
+        This will disable IPv4 socket support. This affects wildcard matching
+        when generating the list of sockets.
+
+    --[no-]ipv6
+        Toggle on/off IPv6 support.
+
+        Example:
+
+            --no-ipv6
+
+        This will turn on IPv6 socket support. This affects wildcard matching
+        when generating a list of sockets.
+
+    --unix-socket=PATH
+        Path of Unix socket. If a socket path is specified, a Unix domain
+        socket is made instead of the usual inet domain socket.
+
+        Not available on Windows.
+
+    --unix-socket-perms=PERMS
+        Octal permissions to use for the Unix domain socket, default is
+        '600'.
+
+    --url-scheme=STR
+        Default wsgi.url_scheme value, default is 'http'.
+
+    --url-prefix=STR
+        The ``SCRIPT_NAME`` WSGI environment value.  Setting this to anything
+        except the empty string will cause the WSGI ``SCRIPT_NAME`` value to be
+        the value passed minus any trailing slashes you add, and it will cause
+        the ``PATH_INFO`` of any request which is prefixed with this value to
+        be stripped of the prefix.  Default is the empty string.
+
+    --ident=STR
+        Server identity used in the 'Server' header in responses. Default
+        is 'waitress'.
+
+Tuning options:
+
+    --threads=INT
+        Number of threads used to process application logic, default is 4.
+
+    --backlog=INT
+        Connection backlog for the server. Default is 1024.
+
+    --recv-bytes=INT
+        Number of bytes to request when calling socket.recv(). Default is
+        8192.
+
+    --send-bytes=INT
+        Number of bytes to send to socket.send(). Default is 18000.
+        Multiples of 9000 should avoid partly-filled TCP packets.
+
+    --outbuf-overflow=INT
+        A temporary file should be created if the pending output is larger
+        than this. Default is 1048576 (1MB).
+
+    --outbuf-high-watermark=INT
+        The app_iter will pause when pending output is larger than this value
+        and will resume once enough data is written to the socket to fall below
+        this threshold. Default is 16777216 (16MB).
+
+    --inbuf-overflow=INT
+        A temporary file should be created if the pending input is larger
+        than this. Default is 524288 (512KB).
+
+    --connection-limit=INT
+        Stop creating new channels if too many are already active.
+        Default is 100.
+
+    --cleanup-interval=INT
+        Minimum seconds between cleaning up inactive channels. Default
+        is 30. See '--channel-timeout'.
+
+    --channel-timeout=INT
+        Maximum number of seconds to leave inactive connections open.
+        Default is 120. 'Inactive' is defined as 'has received no data
+        from the client and has sent no data to the client'.
+
+    --[no-]log-socket-errors
+        Toggle whether premature client disconnect tracebacks ought to be
+        logged. On by default.
+
+    --max-request-header-size=INT
+        Maximum size of all request headers combined. Default is 262144
+        (256KB).
+
+    --max-request-body-size=INT
+        Maximum size of request body. Default is 1073741824 (1GB).
+
+    --[no-]expose-tracebacks
+        Toggle whether to expose tracebacks of unhandled exceptions to the
+        client. Off by default.
+
+    --asyncore-loop-timeout=INT
+        The timeout value in seconds passed to asyncore.loop(). Default is 1.
+
+    --asyncore-use-poll
+        The use_poll argument passed to ``asyncore.loop()``. Helps overcome
+        open file descriptors limit. Default is False.
+
+    --channel-request-lookahead=INT
+        Allows channels to stay readable and buffer more requests up to the
+        given maximum even if a request is already being processed. This allows
+        detecting if a client closed the connection while its request is being
+        processed. Default is 0.
+
+
+There was an exception (ImportError) importing your module.
+
+It had these arguments: 
+1. cannot import name 'db' from 'website' (/home/ec2-user/SleepWearablesV2/website/__init__.py)
+
+/home/ec2-user/.local/lib/python3.7/site-packages/flask_sqlalchemy/__init__.py:873: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+Created Database
+Error: Bad module 'main'
+
+Usage:
+
+    waitress-serve [OPTS] MODULE:OBJECT
+
+Standard options:
+
+    --help
+        Show this information.
+
+    --call
+        Call the given object to get the WSGI application.
+
+    --host=ADDR
+        Hostname or IP address on which to listen, default is '0.0.0.0',
+        which means "all IP addresses on this host".
+
+        Note: May not be used together with --listen
+
+    --port=PORT
+        TCP port on which to listen, default is '8080'
+
+        Note: May not be used together with --listen
+
+    --listen=ip:port
+        Tell waitress to listen on an ip port combination.
+
+        Example:
+
+            --listen=127.0.0.1:8080
+            --listen=[::1]:8080
+            --listen=*:8080
+
+        This option may be used multiple times to listen on multiple sockets.
+        A wildcard for the hostname is also supported and will bind to both
+        IPv4/IPv6 depending on whether they are enabled or disabled.
+
+    --[no-]ipv4
+        Toggle on/off IPv4 support.
+
+        Example:
+
+            --no-ipv4
+
+        This will disable IPv4 socket support. This affects wildcard matching
+        when generating the list of sockets.
+
+    --[no-]ipv6
+        Toggle on/off IPv6 support.
+
+        Example:
+
+            --no-ipv6
+
+        This will turn on IPv6 socket support. This affects wildcard matching
+        when generating a list of sockets.
+
+    --unix-socket=PATH
+        Path of Unix socket. If a socket path is specified, a Unix domain
+        socket is made instead of the usual inet domain socket.
+
+        Not available on Windows.
+
+    --unix-socket-perms=PERMS
+        Octal permissions to use for the Unix domain socket, default is
+        '600'.
+
+    --url-scheme=STR
+        Default wsgi.url_scheme value, default is 'http'.
+
+    --url-prefix=STR
+        The ``SCRIPT_NAME`` WSGI environment value.  Setting this to anything
+        except the empty string will cause the WSGI ``SCRIPT_NAME`` value to be
+        the value passed minus any trailing slashes you add, and it will cause
+        the ``PATH_INFO`` of any request which is prefixed with this value to
+        be stripped of the prefix.  Default is the empty string.
+
+    --ident=STR
+        Server identity used in the 'Server' header in responses. Default
+        is 'waitress'.
+
+Tuning options:
+
+    --threads=INT
+        Number of threads used to process application logic, default is 4.
+
+    --backlog=INT
+        Connection backlog for the server. Default is 1024.
+
+    --recv-bytes=INT
+        Number of bytes to request when calling socket.recv(). Default is
+        8192.
+
+    --send-bytes=INT
+        Number of bytes to send to socket.send(). Default is 18000.
+        Multiples of 9000 should avoid partly-filled TCP packets.
+
+    --outbuf-overflow=INT
+        A temporary file should be created if the pending output is larger
+        than this. Default is 1048576 (1MB).
+
+    --outbuf-high-watermark=INT
+        The app_iter will pause when pending output is larger than this value
+        and will resume once enough data is written to the socket to fall below
+        this threshold. Default is 16777216 (16MB).
+
+    --inbuf-overflow=INT
+        A temporary file should be created if the pending input is larger
+        than this. Default is 524288 (512KB).
+
+    --connection-limit=INT
+        Stop creating new channels if too many are already active.
+        Default is 100.
+
+    --cleanup-interval=INT
+        Minimum seconds between cleaning up inactive channels. Default
+        is 30. See '--channel-timeout'.
+
+    --channel-timeout=INT
+        Maximum number of seconds to leave inactive connections open.
+        Default is 120. 'Inactive' is defined as 'has received no data
+        from the client and has sent no data to the client'.
+
+    --[no-]log-socket-errors
+        Toggle whether premature client disconnect tracebacks ought to be
+        logged. On by default.
+
+    --max-request-header-size=INT
+        Maximum size of all request headers combined. Default is 262144
+        (256KB).
+
+    --max-request-body-size=INT
+        Maximum size of request body. Default is 1073741824 (1GB).
+
+    --[no-]expose-tracebacks
+        Toggle whether to expose tracebacks of unhandled exceptions to the
+        client. Off by default.
+
+    --asyncore-loop-timeout=INT
+        The timeout value in seconds passed to asyncore.loop(). Default is 1.
+
+    --asyncore-use-poll
+        The use_poll argument passed to ``asyncore.loop()``. Helps overcome
+        open file descriptors limit. Default is False.
+
+    --channel-request-lookahead=INT
+        Allows channels to stay readable and buffer more requests up to the
+        given maximum even if a request is already being processed. This allows
+        detecting if a client closed the connection while its request is being
+        processed. Default is 0.
+
+
+There was an exception (ImportError) importing your module.
+
+It had these arguments: 
+1. cannot import name 'db' from 'website' (/home/ec2-user/SleepWearablesV2/website/__init__.py)
+
+Error: Bad module 'main'
+
+Usage:
+
+    waitress-serve [OPTS] MODULE:OBJECT
+
+Standard options:
+
+    --help
+        Show this information.
+
+    --call
+        Call the given object to get the WSGI application.
+
+    --host=ADDR
+        Hostname or IP address on which to listen, default is '0.0.0.0',
+        which means "all IP addresses on this host".
+
+        Note: May not be used together with --listen
+
+    --port=PORT
+        TCP port on which to listen, default is '8080'
+
+        Note: May not be used together with --listen
+
+    --listen=ip:port
+        Tell waitress to listen on an ip port combination.
+
+        Example:
+
+            --listen=127.0.0.1:8080
+            --listen=[::1]:8080
+            --listen=*:8080
+
+        This option may be used multiple times to listen on multiple sockets.
+        A wildcard for the hostname is also supported and will bind to both
+        IPv4/IPv6 depending on whether they are enabled or disabled.
+
+    --[no-]ipv4
+        Toggle on/off IPv4 support.
+
+        Example:
+
+            --no-ipv4
+
+        This will disable IPv4 socket support. This affects wildcard matching
+        when generating the list of sockets.
+
+    --[no-]ipv6
+        Toggle on/off IPv6 support.
+
+        Example:
+
+            --no-ipv6
+
+        This will turn on IPv6 socket support. This affects wildcard matching
+        when generating a list of sockets.
+
+    --unix-socket=PATH
+        Path of Unix socket. If a socket path is specified, a Unix domain
+        socket is made instead of the usual inet domain socket.
+
+        Not available on Windows.
+
+    --unix-socket-perms=PERMS
+        Octal permissions to use for the Unix domain socket, default is
+        '600'.
+
+    --url-scheme=STR
+        Default wsgi.url_scheme value, default is 'http'.
+
+    --url-prefix=STR
+        The ``SCRIPT_NAME`` WSGI environment value.  Setting this to anything
+        except the empty string will cause the WSGI ``SCRIPT_NAME`` value to be
+        the value passed minus any trailing slashes you add, and it will cause
+        the ``PATH_INFO`` of any request which is prefixed with this value to
+        be stripped of the prefix.  Default is the empty string.
+
+    --ident=STR
+        Server identity used in the 'Server' header in responses. Default
+        is 'waitress'.
+
+Tuning options:
+
+    --threads=INT
+        Number of threads used to process application logic, default is 4.
+
+    --backlog=INT
+        Connection backlog for the server. Default is 1024.
+
+    --recv-bytes=INT
+        Number of bytes to request when calling socket.recv(). Default is
+        8192.
+
+    --send-bytes=INT
+        Number of bytes to send to socket.send(). Default is 18000.
+        Multiples of 9000 should avoid partly-filled TCP packets.
+
+    --outbuf-overflow=INT
+        A temporary file should be created if the pending output is larger
+        than this. Default is 1048576 (1MB).
+
+    --outbuf-high-watermark=INT
+        The app_iter will pause when pending output is larger than this value
+        and will resume once enough data is written to the socket to fall below
+        this threshold. Default is 16777216 (16MB).
+
+    --inbuf-overflow=INT
+        A temporary file should be created if the pending input is larger
+        than this. Default is 524288 (512KB).
+
+    --connection-limit=INT
+        Stop creating new channels if too many are already active.
+        Default is 100.
+
+    --cleanup-interval=INT
+        Minimum seconds between cleaning up inactive channels. Default
+        is 30. See '--channel-timeout'.
+
+    --channel-timeout=INT
+        Maximum number of seconds to leave inactive connections open.
+        Default is 120. 'Inactive' is defined as 'has received no data
+        from the client and has sent no data to the client'.
+
+    --[no-]log-socket-errors
+        Toggle whether premature client disconnect tracebacks ought to be
+        logged. On by default.
+
+    --max-request-header-size=INT
+        Maximum size of all request headers combined. Default is 262144
+        (256KB).
+
+    --max-request-body-size=INT
+        Maximum size of request body. Default is 1073741824 (1GB).
+
+    --[no-]expose-tracebacks
+        Toggle whether to expose tracebacks of unhandled exceptions to the
+        client. Off by default.
+
+    --asyncore-loop-timeout=INT
+        The timeout value in seconds passed to asyncore.loop(). Default is 1.
+
+    --asyncore-use-poll
+        The use_poll argument passed to ``asyncore.loop()``. Helps overcome
+        open file descriptors limit. Default is False.
+
+    --channel-request-lookahead=INT
+        Allows channels to stay readable and buffer more requests up to the
+        given maximum even if a request is already being processed. This allows
+        detecting if a client closed the connection while its request is being
+        processed. Default is 0.
+
+
+There was an exception (ImportError) importing your module.
+
+It had these arguments: 
+1. cannot import name 'db' from 'website' (/home/ec2-user/SleepWearablesV2/website/__init__.py)
+
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/bin/waitress-serve", line 8, in <module>
+    sys.exit(run())
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/waitress/runner.py", line 283, in run
+    app = resolve(module, obj_name)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/waitress/runner.py", line 218, in resolve
+    obj = __import__(module_name, fromlist=segments[:1])
+  File "/home/ec2-user/SleepWearablesV2/main.py", line 1, in <module>
+    from website import create_app
+  File "/home/ec2-user/SleepWearablesV2/website/__init__.py", line 44
+    except
+         ^
+SyntaxError: invalid syntax
+Error: Bad module 'main'
+
+Usage:
+
+    waitress-serve [OPTS] MODULE:OBJECT
+
+Standard options:
+
+    --help
+        Show this information.
+
+    --call
+        Call the given object to get the WSGI application.
+
+    --host=ADDR
+        Hostname or IP address on which to listen, default is '0.0.0.0',
+        which means "all IP addresses on this host".
+
+        Note: May not be used together with --listen
+
+    --port=PORT
+        TCP port on which to listen, default is '8080'
+
+        Note: May not be used together with --listen
+
+    --listen=ip:port
+        Tell waitress to listen on an ip port combination.
+
+        Example:
+
+            --listen=127.0.0.1:8080
+            --listen=[::1]:8080
+            --listen=*:8080
+
+        This option may be used multiple times to listen on multiple sockets.
+        A wildcard for the hostname is also supported and will bind to both
+        IPv4/IPv6 depending on whether they are enabled or disabled.
+
+    --[no-]ipv4
+        Toggle on/off IPv4 support.
+
+        Example:
+
+            --no-ipv4
+
+        This will disable IPv4 socket support. This affects wildcard matching
+        when generating the list of sockets.
+
+    --[no-]ipv6
+        Toggle on/off IPv6 support.
+
+        Example:
+
+            --no-ipv6
+
+        This will turn on IPv6 socket support. This affects wildcard matching
+        when generating a list of sockets.
+
+    --unix-socket=PATH
+        Path of Unix socket. If a socket path is specified, a Unix domain
+        socket is made instead of the usual inet domain socket.
+
+        Not available on Windows.
+
+    --unix-socket-perms=PERMS
+        Octal permissions to use for the Unix domain socket, default is
+        '600'.
+
+    --url-scheme=STR
+        Default wsgi.url_scheme value, default is 'http'.
+
+    --url-prefix=STR
+        The ``SCRIPT_NAME`` WSGI environment value.  Setting this to anything
+        except the empty string will cause the WSGI ``SCRIPT_NAME`` value to be
+        the value passed minus any trailing slashes you add, and it will cause
+        the ``PATH_INFO`` of any request which is prefixed with this value to
+        be stripped of the prefix.  Default is the empty string.
+
+    --ident=STR
+        Server identity used in the 'Server' header in responses. Default
+        is 'waitress'.
+
+Tuning options:
+
+    --threads=INT
+        Number of threads used to process application logic, default is 4.
+
+    --backlog=INT
+        Connection backlog for the server. Default is 1024.
+
+    --recv-bytes=INT
+        Number of bytes to request when calling socket.recv(). Default is
+        8192.
+
+    --send-bytes=INT
+        Number of bytes to send to socket.send(). Default is 18000.
+        Multiples of 9000 should avoid partly-filled TCP packets.
+
+    --outbuf-overflow=INT
+        A temporary file should be created if the pending output is larger
+        than this. Default is 1048576 (1MB).
+
+    --outbuf-high-watermark=INT
+        The app_iter will pause when pending output is larger than this value
+        and will resume once enough data is written to the socket to fall below
+        this threshold. Default is 16777216 (16MB).
+
+    --inbuf-overflow=INT
+        A temporary file should be created if the pending input is larger
+        than this. Default is 524288 (512KB).
+
+    --connection-limit=INT
+        Stop creating new channels if too many are already active.
+        Default is 100.
+
+    --cleanup-interval=INT
+        Minimum seconds between cleaning up inactive channels. Default
+        is 30. See '--channel-timeout'.
+
+    --channel-timeout=INT
+        Maximum number of seconds to leave inactive connections open.
+        Default is 120. 'Inactive' is defined as 'has received no data
+        from the client and has sent no data to the client'.
+
+    --[no-]log-socket-errors
+        Toggle whether premature client disconnect tracebacks ought to be
+        logged. On by default.
+
+    --max-request-header-size=INT
+        Maximum size of all request headers combined. Default is 262144
+        (256KB).
+
+    --max-request-body-size=INT
+        Maximum size of request body. Default is 1073741824 (1GB).
+
+    --[no-]expose-tracebacks
+        Toggle whether to expose tracebacks of unhandled exceptions to the
+        client. Off by default.
+
+    --asyncore-loop-timeout=INT
+        The timeout value in seconds passed to asyncore.loop(). Default is 1.
+
+    --asyncore-use-poll
+        The use_poll argument passed to ``asyncore.loop()``. Helps overcome
+        open file descriptors limit. Default is False.
+
+    --channel-request-lookahead=INT
+        Allows channels to stay readable and buffer more requests up to the
+        given maximum even if a request is already being processed. This allows
+        detecting if a client closed the connection while its request is being
+        processed. Default is 0.
+
+
+There was an exception (ImportError) importing your module.
+
+It had these arguments: 
+1. cannot import name 'db' from 'website' (/home/ec2-user/SleepWearablesV2/website/__init__.py)
+
+Created Database
+[{'email': 'kabir@radiclescience.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1NzA3NjU0LCJpYXQiOjE2NTU2Nzg4NTR9.yda3AltJo7FHYUyLCae6oRwRjCG-I8dMzp-MpbBCxpA', 'refresh_token': 'b2b14185d354cff57ffb9867e961016401b632c163aec35a65d8038b61972468', 'id': 1}, {'email': 'phpinfo', 'auth_token': '', 'refresh_token': '', 'id': 2}, {'email': 'config', 'auth_token': '', 'refresh_token': '', 'id': 3}, {'email': 'readonly', 'auth_token': '', 'refresh_token': '', 'id': 4}, {'email': 'execute-solution', 'auth_token': '', 'refresh_token': '', 'id': 5}, {'email': 'login', 'auth_token': '', 'refresh_token': '', 'id': 6}, {'email': 'html', 'auth_token': '', 'refresh_token': '', 'id': 7}, {'email': 'sign_in', 'auth_token': '', 'refresh_token': '', 'id': 8}, {'email': 'requests', 'auth_token': '', 'refresh_token': '', 'id': 9}, {'email': 'cgi_playlist_xml.fcg', 'auth_token': '', 'refresh_token': '', 'id': 10}, {'email': 'Autodiscover.xml', 'auth_token': '', 'refresh_token': '', 'id': 11}, {'email': 'wlwmanifest.xml', 'auth_token': '', 'refresh_token': '', 'id': 12}, {'email': 'fgt_lang', 'auth_token': '', 'refresh_token': '', 'id': 13}, {'email': 'index', 'auth_token': '', 'refresh_token': '', 'id': 14}, {'email': 'Trinity.txt.bak', 'auth_token': '', 'refresh_token': '', 'id': 15}, {'email': 'about', 'auth_token': '', 'refresh_token': '', 'id': 16}, {'email': 'credentials', 'auth_token': '', 'refresh_token': '', 'id': 17}, {'email': '$', 'auth_token': '', 'refresh_token': '', 'id': 18}, {'email': 'phpinfo.php', 'auth_token': '', 'refresh_token': '', 'id': 19}, {'email': 'configuration.php', 'auth_token': '', 'refresh_token': '', 'id': 20}]
+[{'email': 'kabir@radiclescience.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1Nzk4NDE0LCJpYXQiOjE2NTU3Njk2MTR9.XFQWaS7-1ZRI9wCFxatP0L4vyJ14a0ZKpG6XZBIrTK8', 'refresh_token': '6d98c05ca605e038c964774c85c563b6d9ad171c0913e1152a1048abba6f7b8f', 'id': 1}, {'email': 'phpinfo', 'auth_token': '', 'refresh_token': '', 'id': 2}, {'email': 'config', 'auth_token': '', 'refresh_token': '', 'id': 3}, {'email': 'readonly', 'auth_token': '', 'refresh_token': '', 'id': 4}, {'email': 'execute-solution', 'auth_token': '', 'refresh_token': '', 'id': 5}, {'email': 'login', 'auth_token': '', 'refresh_token': '', 'id': 6}, {'email': 'html', 'auth_token': '', 'refresh_token': '', 'id': 7}, {'email': 'sign_in', 'auth_token': '', 'refresh_token': '', 'id': 8}, {'email': 'requests', 'auth_token': '', 'refresh_token': '', 'id': 9}, {'email': 'cgi_playlist_xml.fcg', 'auth_token': '', 'refresh_token': '', 'id': 10}, {'email': 'Autodiscover.xml', 'auth_token': '', 'refresh_token': '', 'id': 11}, {'email': 'wlwmanifest.xml', 'auth_token': '', 'refresh_token': '', 'id': 12}, {'email': 'fgt_lang', 'auth_token': '', 'refresh_token': '', 'id': 13}, {'email': 'index', 'auth_token': '', 'refresh_token': '', 'id': 14}, {'email': 'Trinity.txt.bak', 'auth_token': '', 'refresh_token': '', 'id': 15}, {'email': 'about', 'auth_token': '', 'refresh_token': '', 'id': 16}, {'email': 'credentials', 'auth_token': '', 'refresh_token': '', 'id': 17}, {'email': '$', 'auth_token': '', 'refresh_token': '', 'id': 18}, {'email': 'phpinfo.php', 'auth_token': '', 'refresh_token': '', 'id': 19}, {'email': 'configuration.php', 'auth_token': '', 'refresh_token': '', 'id': 20}, {'email': 'security.txt', 'auth_token': '', 'refresh_token': '', 'id': 21}, {'email': 'diag_Form', 'auth_token': '', 'refresh_token': '', 'id': 22}, {'email': '.env', 'auth_token': '', 'refresh_token': '', 'id': 23}, {'email': 'search', 'auth_token': '', 'refresh_token': '', 'id': 24}, {'email': '_catalog', 'auth_token': '', 'refresh_token': '', 'id': 25}, {'email': 'health', 'auth_token': '', 'refresh_token': '', 'id': 26}]
+[{'email': 'kabir@radiclescience.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU1ODkzMDcwLCJpYXQiOjE2NTU4NjQyNzB9.Dtcb5Iym04rvAxyPWkczxwilrQrkvti2dNiUkELZEJg', 'refresh_token': '46e093382d2c0a3478d7e2a71243b8c83c5d325e3a60d66106312822795b7eb0', 'id': 1}, {'email': 'phpinfo', 'auth_token': '', 'refresh_token': '', 'id': 2}, {'email': 'config', 'auth_token': '', 'refresh_token': '', 'id': 3}, {'email': 'readonly', 'auth_token': '', 'refresh_token': '', 'id': 4}, {'email': 'execute-solution', 'auth_token': '', 'refresh_token': '', 'id': 5}, {'email': 'login', 'auth_token': '', 'refresh_token': '', 'id': 6}, {'email': 'html', 'auth_token': '', 'refresh_token': '', 'id': 7}, {'email': 'sign_in', 'auth_token': '', 'refresh_token': '', 'id': 8}, {'email': 'requests', 'auth_token': '', 'refresh_token': '', 'id': 9}, {'email': 'cgi_playlist_xml.fcg', 'auth_token': '', 'refresh_token': '', 'id': 10}, {'email': 'Autodiscover.xml', 'auth_token': '', 'refresh_token': '', 'id': 11}, {'email': 'wlwmanifest.xml', 'auth_token': '', 'refresh_token': '', 'id': 12}, {'email': 'fgt_lang', 'auth_token': '', 'refresh_token': '', 'id': 13}, {'email': 'index', 'auth_token': '', 'refresh_token': '', 'id': 14}, {'email': 'Trinity.txt.bak', 'auth_token': '', 'refresh_token': '', 'id': 15}, {'email': 'about', 'auth_token': '', 'refresh_token': '', 'id': 16}, {'email': 'credentials', 'auth_token': '', 'refresh_token': '', 'id': 17}, {'email': '$', 'auth_token': '', 'refresh_token': '', 'id': 18}, {'email': 'phpinfo.php', 'auth_token': '', 'refresh_token': '', 'id': 19}, {'email': 'configuration.php', 'auth_token': '', 'refresh_token': '', 'id': 20}, {'email': 'security.txt', 'auth_token': '', 'refresh_token': '', 'id': 21}, {'email': 'diag_Form', 'auth_token': '', 'refresh_token': '', 'id': 22}, {'email': '.env', 'auth_token': '', 'refresh_token': '', 'id': 23}, {'email': 'search', 'auth_token': '', 'refresh_token': '', 'id': 24}, {'email': '_catalog', 'auth_token': '', 'refresh_token': '', 'id': 25}, {'email': 'health', 'auth_token': '', 'refresh_token': '', 'id': 26}, {'email': 'index.php', 'auth_token': '', 'refresh_token': '', 'id': 27}, {'email': 'redlion', 'auth_token': '', 'refresh_token': '', 'id': 28}]
+[{'email': 'kabir@radiclescience.com', 'auth_token': 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzg1QkYiLCJzdWIiOiI5WEZXU0wiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyYWN0IHJzZXQgcndlaSByaHIgcnBybyByc2xlIiwiZXhwIjoxNjU2MTQ5MjMyLCJpYXQiOjE2NTYxMjA0MzJ9.pWsj2H21vCxBvkZhj1QDzSKE8WP33C5ZF0XcVPGcL7o', 'refresh_token': 'b0ac5b6d573474285e3054381c11af8b429e58315d3aa7c63b1b520fa85588ae', 'id': 1}, {'email': 'phpinfo', 'auth_token': '', 'refresh_token': '', 'id': 2}, {'email': 'config', 'auth_token': '', 'refresh_token': '', 'id': 3}, {'email': 'readonly', 'auth_token': '', 'refresh_token': '', 'id': 4}, {'email': 'execute-solution', 'auth_token': '', 'refresh_token': '', 'id': 5}, {'email': 'login', 'auth_token': '', 'refresh_token': '', 'id': 6}, {'email': 'html', 'auth_token': '', 'refresh_token': '', 'id': 7}, {'email': 'sign_in', 'auth_token': '', 'refresh_token': '', 'id': 8}, {'email': 'requests', 'auth_token': '', 'refresh_token': '', 'id': 9}, {'email': 'cgi_playlist_xml.fcg', 'auth_token': '', 'refresh_token': '', 'id': 10}, {'email': 'Autodiscover.xml', 'auth_token': '', 'refresh_token': '', 'id': 11}, {'email': 'wlwmanifest.xml', 'auth_token': '', 'refresh_token': '', 'id': 12}, {'email': 'fgt_lang', 'auth_token': '', 'refresh_token': '', 'id': 13}, {'email': 'index', 'auth_token': '', 'refresh_token': '', 'id': 14}, {'email': 'Trinity.txt.bak', 'auth_token': '', 'refresh_token': '', 'id': 15}, {'email': 'about', 'auth_token': '', 'refresh_token': '', 'id': 16}, {'email': 'credentials', 'auth_token': '', 'refresh_token': '', 'id': 17}, {'email': '$', 'auth_token': '', 'refresh_token': '', 'id': 18}, {'email': 'phpinfo.php', 'auth_token': '', 'refresh_token': '', 'id': 19}, {'email': 'configuration.php', 'auth_token': '', 'refresh_token': '', 'id': 20}, {'email': 'security.txt', 'auth_token': '', 'refresh_token': '', 'id': 21}, {'email': 'diag_Form', 'auth_token': '', 'refresh_token': '', 'id': 22}, {'email': '.env', 'auth_token': '', 'refresh_token': '', 'id': 23}, {'email': 'search', 'auth_token': '', 'refresh_token': '', 'id': 24}, {'email': '_catalog', 'auth_token': '', 'refresh_token': '', 'id': 25}, {'email': 'health', 'auth_token': '', 'refresh_token': '', 'id': 26}, {'email': 'index.php', 'auth_token': '', 'refresh_token': '', 'id': 27}, {'email': 'redlion', 'auth_token': '', 'refresh_token': '', 'id': 28}, {'email': 'getuser', 'auth_token': '', 'refresh_token': '', 'id': 29}, {'email': 'printenv.pl', 'auth_token': '', 'refresh_token': '', 'id': 30}, {'email': 'version.js', 'auth_token': '', 'refresh_token': '', 'id': 31}, {'email': 'clients_live.php', 'auth_token': '', 'refresh_token': '', 'id': 32}, {'email': 'live.php', 'auth_token': '', 'refresh_token': '', 'id': 33}, {'email': '403.html', 'auth_token': '', 'refresh_token': '', 'id': 34}, {'email': 'push.js', 'auth_token': '', 'refresh_token': '', 'id': 35}, {'email': 'soip', 'auth_token': '', 'refresh_token': '', 'id': 36}, {'email': 'HEAD', 'auth_token': '', 'refresh_token': '', 'id': 37}, {'email': 'geojson', 'auth_token': '', 'refresh_token': '', 'id': 38}]/home/ec2-user/.local/lib/python3.7/site-packages/flask_sqlalchemy/__init__.py:873: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/bin/waitress-serve", line 8, in <module>
+    sys.exit(run())
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/waitress/runner.py", line 298, in run
+    _serve(app, **kw)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/waitress/__init__.py", line 13, in serve
+    server = _server(app, **kw)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/waitress/server.py", line 85, in create_server
+    sockinfo=sockinfo,
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/waitress/server.py", line 244, in __init__
+    self.bind_server_socket()
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/waitress/server.py", line 361, in bind_server_socket
+    self.bind(sockaddr)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/waitress/wasyncore.py", line 396, in bind
+    return self.socket.bind(addr)
+OSError: [Errno 98] Address already in use

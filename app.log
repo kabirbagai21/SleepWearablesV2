@@ -1,0 +1,7 @@
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 142-529-561
+website.views - INFO - Redirecting to fitbit auth page
+werkzeug - INFO - 127.0.0.1 - - [23/Jul/2022 08:11:46] "[32mGET /kabir/kabir@radiclescience.com/test/07232022/07242022 HTTP/1.1[0m" 302 -
+website.views - INFO - Sending post request for access token
+website.views - INFO - Adding new tokens to user object in database
+werkzeug - INFO - 127.0.0.1 - - [23/Jul/2022 08:11:47] "GET /final?code=12fc5491395b64c217608df5e1847fbcde6249a1 HTTP/1.1" 200 -
